@@ -36,7 +36,7 @@
 
 <div style="display:flex, flex-direction:row">
   <div>
-    <h1 align="center">Skills 🧑🏻‍💻</h1>
+    <h3>🧑🏻‍💻 Skills </h3>
     <ul>
       <li>Logic Building & Problem Solving</li>
       <li>Python</li>
@@ -48,7 +48,7 @@
   </div>
 
   <div>
-    <h1 align="center">My Interests 🧑🏻‍💻</h1>
+    <h3>🧑🏻‍💻 My Interests</h3>
     <ul>
       <li>Robotics, AI & Neural Networks<li>
       <li>Political Science, Law and Administration<li>
