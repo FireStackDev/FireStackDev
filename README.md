@@ -60,7 +60,6 @@
 
 |🧑🏻‍💻 Skills|🧑🏻‍💻 My Interests|
 | --- | --- |
-
 | Logic Building & Problem Solving   | Robotics, AI & Neural Networks |  
 | Python                             |Political Science, Law and Administration | 
 | Intermediate DSA                   |Cyber Security | 
