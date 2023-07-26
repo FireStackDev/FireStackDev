@@ -17,11 +17,32 @@
 
 
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Full Stack Web Developer<br>- 📚 I'm currently learning MERN & AI <br>- ⚡ In my free time ... No free time only coding</p>
+<p align="left">
+  <br>- 🔭 I’m working as Full Stack Web Developer
+  <br>- 📚 I'm currently learning MERN, AI and JAVA 
+  <br>- ⚡ In my free time ... No free time only coding
+</p>
 
+<p align="left">
+  <br>
+</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+<ul>
+<li> Python </li>
+<li> PHP </li>
+<li> Java Script </li>
+<li> Bootstrap </li>
+<li> Tailwind CSS </li>
+<li> DJANGO framework </li>
+<li> FLASK framework</li>
+<li> STRAPI </li>
+<li> WordPress </li>
+<li> Firebase Realtime Database </li>
+<li> Firebase ML kit with Android Studio </li>
+  
+</ul>
 
 ###
 
