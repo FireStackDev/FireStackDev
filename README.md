@@ -44,17 +44,17 @@
       <li>Intermediate DSA</li>
       <li>3D Computer Graphics & VFX</li>
       <li>Media Editing (Video & Photo Edit)</li>
-    <ul>
+      <ul>
   </div>
 
   <div>
     <h3>🧑🏻‍💻 My Interests</h3>
     <ul>
-      <li>Robotics, AI & Neural Networks<li>
-      <li>Political Science, Law and Administration<li>
-      <li>Cyber Security<li>
-      <li>CGI & VFX<li>
-      </ul>
+      <li>Robotics, AI & Neural Networks</li>
+      <li>Political Science, Law and Administration</li>
+      <li>Cyber Security</li>
+      <li>CGI & VFX</li>
+    </ul>
   </div>
 </div>
 
