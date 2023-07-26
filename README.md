@@ -19,25 +19,48 @@
   <br>- ⚡ In my free time ... No free time only coding
 </p>
 
-<p align="left">
-  <br>
-</p>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 <ul>
 <li> Python </li>
 <li> PHP </li>
 <li> Java Script </li>
-<li> Bootstrap </li>
-<li> Tailwind CSS </li>
-<li> DJANGO framework </li>
-<li> FLASK framework</li>
+<li> Bootstrap & Tailwind CSS </li>
+<li> DJANGO & FLASK framework </li>
 <li> STRAPI </li>
 <li> WordPress </li>
-<li> Firebase Realtime Database </li>
-<li> Firebase ML kit with Android Studio </li>
-  
+<li> Firebase Realtime Database & ML Kit</li>
 </ul>
+
+<div style="display:flex, flex-direction:row">
+  <div>
+    <h1 align="center">Skills 🧑🏻‍💻</h1>
+    <p align="left">
+  <br>- Logic Building & Problem Solving
+  <br>- Python
+  <br>- UI Design & Backend Coding
+  <br>- Intermediate DSA
+  <br>- 3D Computer Graphics & VFX
+  <br>- Media Editing (Video & Photo Edit)
+</p>
+  </div>
+  
+  <div>
+    <h1 align="center">My Interests 🧑🏻‍💻</h1>
+<p align="left">
+  <br>- Robotics, AI & Neural Networks
+  <br>- Political Science, Law and Administration
+  <br>- Cyber Security
+  <br>- CGI & VFX
+</p>
+  </div>
+</div>
+
+
+
+
+
 
 <!--<div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
