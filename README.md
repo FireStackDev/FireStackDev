@@ -34,7 +34,7 @@
   <li> Firebase Realtime Database & ML Kit</li>
 </ul>
 
-<div style="display:flex, flex-direction:row">
+<!-- <div style="display:flex, flex-direction:row">
   <div>
     <h3>🧑🏻‍💻 Skills </h3>
     <ul>
@@ -56,7 +56,7 @@
       <li>CGI & VFX</li>
     </ul>
   </div>
-</div> 
+</div>  -->
 
 |🧑🏻‍💻 Skills|🧑🏻‍💻 My Interests|
 | --- | --- |
