@@ -14,7 +14,7 @@
 
 
 <p align="left">
-  <br>- 🔭 I’m working as Full Stack Web Developer
+  <br>- 🔭 Freelancing as Full Stack Web Developer & 3D Graphics Designer
   <br>- 📚 I'm currently learning MERN, AI and JAVA
   <br>- ⚡ In my free time ... No free time only coding
 </p>
