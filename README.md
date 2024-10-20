@@ -57,14 +57,14 @@
   </div>
 </div>  -->
 
-|🧑🏻‍💻 Skills|🧑🏻‍💻 My Interests|
+|🧑🏻‍💻 Skills|🧑🏻‍💻 Interests|
 | --- | --- |
 | Logic Building & Problem Solving | Robotics, AI & Neural Networks |
 | Python |Political Science, Law and Administration |
 | Intermediate DSA |Cyber Security |
 | UI Design & Backend Coding | CGI & VFX |
 | 3D Computer Graphics & VFX | Painting |
-| Proffessional Media Editing (Video & Photo Edit, Poster & Banner Design) | Nuclear Technology & AstroPhysics |
+| Proffessional Media Editing (Video & Photo Edit, Poster & Banner Design) | Nuclear Technology |
 
 
 <!--<div>
