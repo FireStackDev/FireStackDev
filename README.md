@@ -1,3 +1,12 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+<style>
+  i{
+    height: 100px;
+    width: 100px;
+  }
+</style>
+
 # 👋 Hi
 ### 🚀 Software Developer | AI Enthusiast | Tech Explorer    
 
@@ -14,7 +23,7 @@
 ## 🛠️ Tech Stack  
 | First Header  | Second Header |
 | ------------- | ------------- |
-| FRONT END Development         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />  |
+| FRONT END Development         | <i class="devicon-html5-plain-wordmark colored"></i>  |
 | BACK END Development          |  |
 | DATABASE MANAGEMENT SYSTEM    |  |
 
