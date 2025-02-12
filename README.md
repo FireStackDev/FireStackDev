@@ -40,5 +40,3 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)  
 
 ---
-
-⭐ **Feel free to fork & star my repositories!** 😊  
