@@ -12,9 +12,9 @@
 ### **Languages:**  
 
 ## 🛠️ Tech Stack  
-| First Header  | Second Header |
-| ------------- | ------------- |
-| FRONT END Development         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />|
+| First Header  | Second Header | 3|
+| ------------- | ------------- |--|
+| FRONT END Development         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />|
 | BACK END Development          |  |
 | DATABASE MANAGEMENT SYSTEM    |  |
 
