@@ -14,8 +14,8 @@
 ## 🛠️ Tech Stack  
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| FRONT END Development  |  |
+| BACK END Development  |  |
 
 
 
