@@ -1,14 +1,12 @@
-# 👋 Hi, I'm [Your Name]!  
-### 🚀 Software Developer | AI Enthusiast | Ethical Hacker | Tech Explorer  
-
-![GitHub Banner](https://your-image-link.com/banner.png)  
+# 👋 Hi
+### 🚀 Software Developer | AI Enthusiast | Tech Explorer    
 
 ## 🔹 About Me  
 - 🎓 Master's in **Computer Science**  
 - 💻 Passionate about **Software Development, AI, and Cybersecurity**  
 - 📱 Currently building **Android & Web Apps**  
-- 🔍 Exploring **Machine Learning & Ethical Hacking**  
-- 🎯 Aspiring to contribute to **open-source projects & research**  
+- 🔍 Exploring **Machine Learning & Data Science**  
+- 🎯 Aspiring to contribute to **Quantum Computing & Research**  
 
 ## 💻 Tech Stack  
 ### **Languages:**  
