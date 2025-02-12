@@ -14,8 +14,9 @@
 ## 🛠️ Tech Stack  
 | First Header  | Second Header |
 | ------------- | ------------- |
-| FRONT END Development  |  |
-| BACK END Development  |  |
+| FRONT END Development         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />  |
+| BACK END Development          |  |
+| DATABASE MANAGEMENT SYSTEM    |  |
 
 
 
