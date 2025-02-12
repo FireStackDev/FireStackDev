@@ -5,8 +5,7 @@
 
 <h1 align="center">hey there 👋</h1>
 
-<h3 align="left">👩‍💻 About Me</h3>
-
+<h3 align="left">👩‍💻 Dual Personality - Software Developer & Graphics Designer </h3>
 
 
 <p align="left">
@@ -14,6 +13,15 @@
   <br>- 📚 I'm currently learning MERN, AI and JAVA
   <br>- ⚡ In my free time ... No free time only coding
 </p>
+
+|skill                |1|2|3|4|5|6|
+|--------------------|------------|------------|----------|-------------|-----------|-----|
+| front end 🎨💻🖌️  | HTML      | CSS         | XML     | Bootstrap   | JQuery    | |
+| back end 🖥️🔧⚙️   | django    | php         | JS      | Kotlin      | Appscript | |
+| dbms 🗄️💾📊       | MySQL     | FireBase    |  |  |  |  |
+| cms 📝📑🌐        | WordPress |  |  |  |  |  |
+| native 🪟🍏🤖     | Android   |  |  |  |  |  |
+| extra features 😉  | Tailwind  | PostgreSQL  | Flask   | strapi      | | |
 
 
 
@@ -29,29 +37,7 @@
   <li> Firebase Realtime Database & ML Kit</li>
 </ul>
 
-<!-- <div style="display:flex, flex-direction:row">
-  <div>
-    <h3>🧑🏻‍💻 Skills </h3>
-    <ul>
-      <li>Logic Building & Problem Solving</li>
-      <li>Python</li>
-      <li>UI Design & Backend Coding</li>
-      <li>Intermediate DSA</li>
-      <li>3D Computer Graphics & VFX</li>
-      <li>Media Editing (Video & Photo Edit)</li>
-      <ul>
-  </div>
 
-  <div>
-    <h3>🧑🏻‍💻 My Interests</h3>
-    <ul>
-      <li>Robotics, AI & Neural Networks</li>
-      <li>Political Science, Law and Administration</li>
-      <li>Cyber Security</li>
-      <li>CGI & VFX</li>
-    </ul>
-  </div>
-</div>  -->
 
 |🧑🏻‍💻 Skills|🧑🏻‍💻 Interests|
 | --- | --- |
