@@ -2,6 +2,8 @@
 <p align="center">1080p Coming Soon ...</p>
 <h3 align="left">👩‍💻 Dual Personality 🥲 - Software Developer & Graphics Designer </h3>
 
+Web & Mobile Software Developer 
+MERN - FLUTTER - DJANGO 
 
 <p align="left">
   <br>- 🔭 Freelancing as Software Developer & 3D Graphics Designer
