@@ -5,8 +5,8 @@
 
 <p align="left">
   <br>- 🔭 Freelancing as Software Developer & 3D Graphics Designer
-  <br>- 📚 Ongoing - Android App Development
-  <br>- Learning Plan - Realtime System, DataScience, ML
+  <br>- 📚 Ongoing - MERN
+  <br>- Learning Plan - System Design
   <br>- ⚡ In my free time ... Another personality 😂
   <br>- In my another personality I do 3D Modeling, Low Poly Model, Interior Decoration & ArchViz
 </p>
