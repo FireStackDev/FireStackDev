@@ -1,12 +1,9 @@
 <h1 align="center"> Hi, Welcome to my 140p cv 👋</h1>
 <p align="center">1080p Coming Soon ...</p>
 
-![HTML5](https://img.shields.io/badge/-Software%20%Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
-![](https://img.shields.io/badge/SoftwareDevelopment?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/-Software%20%Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/-Android%20%App%20%Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/-Full%20%Stack%20%Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 
 <p align="left">
   <br>- 🔭 Freelancing as Software Developer & 3D Graphics Designer
