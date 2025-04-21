@@ -13,14 +13,12 @@
 </td>
 <td>
 
- <img src="https://github-readme-stats.vercel.app/api?username=FireStackDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+ <img src="https://nirzak-streak-stats.vercel.app/?user=FireStackDev&theme=dark&hide_border=false"/>
 
 </td>
 </tr>
 </table>
 
-![]()
-![](https://nirzak-streak-stats.vercel.app/?user=FireStackDev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="left">
