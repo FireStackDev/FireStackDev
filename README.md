@@ -22,7 +22,7 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react)]()
 
 ### back end 🖥️🔧⚙️
-[![Backend Skills](https://skillicons.dev/icons?i=django,php,node,express,next,js,kotlin,googlecloud)]()
+[![Backend Skills](https://skillicons.dev/icons?i=django,php,nodejs,express,next,js,kotlin,googlecloud)]()
 
 ### Database 🗄️💾📊 
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)]()
