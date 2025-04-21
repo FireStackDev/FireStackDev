@@ -7,7 +7,7 @@
   <br>- In my another personality I do 3D Modeling, Low Poly Model, Interior Decoration & ArchViz
 </p>
 
-<table align="center" border=0>
+<table align="center" border="0">
 
 <tr>
 
