@@ -18,9 +18,6 @@
 </td>
 </tr>
 </table>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <p align="left">
   <br>- 🔭 Freelancing as Software Developer & 3D Graphics Designer
   <br>- 📚 Ongoing - MERN
