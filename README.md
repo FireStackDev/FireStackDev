@@ -5,7 +5,7 @@
 - 💬 Ask me about Coding
 - ⚡ Fun fact: I'm also a 3D Graphics Designer
 
-<table align="center" border="0">
+<table align="" border="0">
 <tr>
   <td>
     
