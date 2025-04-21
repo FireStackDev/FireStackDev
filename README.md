@@ -47,13 +47,8 @@
 
 ## 🚀 My Skillset
 
-![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart,html,css,js,bootstrap,tailwind,jquery,flutter,react)
+![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart,html,css,js,bootstrap,tailwind,jquery,flutter,react,django,php,nodejs,express,next,js,kotlin,googlecloud,flask,mysql,postgres,mongodb,sqlite,firebase)
 
-![Frontend Skills](https://skillicons.dev/icons?i=)()
-
-[![Backend Skills](https://skillicons.dev/icons?i=django,php,nodejs,express,next,js,kotlin,googlecloud,flask)]()
-
-![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase)]()
 
 ### AI - ML
 [![Database Skills](https://skillicons.dev/icons?i=sklearn)]()
