@@ -26,23 +26,17 @@ MERN - FLUTTER - DJANGO
 
 ## 🚀 My Skillset
 
-### Language  
-[![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php)]()
+|### Language  |
+|[![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php)]() |
 
-### 🎨 Frontend  
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,flutter)]()
-
+|### 🎨 Frontend |  
+|[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,flutter)]()|
 ---
+|### 🛠️ Backend  |
+|[![Backend Skills](https://skillicons.dev/icons?i=js,php,django,nodejs,express,kotlin,googlecloud)]()|
 
-### 🛠️ Backend  
-[![Backend Skills](https://skillicons.dev/icons?i=js,php,django,nodejs,express,kotlin,googlecloud)]()
-
+|### 🗄️ Database  |
+|[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres)]()|
 ---
-
-### 🗄️ Database  
-[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres)]()
-
----
-
-### 🧰 Others / Tools  
-[![Other Tools](https://skillicons.dev/icons?i=wordpress,blender,photoshop,premierepro,strapi)]()
+|### 🧰 Others / Tools |  
+|[![Other Tools](https://skillicons.dev/icons?i=wordpress,blender,photoshop,premierepro,strapi)]()|
