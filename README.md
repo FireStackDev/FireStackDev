@@ -32,3 +32,8 @@
 
 ### Content Management Services 📝📑🌐 
 [![Other Tools](https://skillicons.dev/icons?i=wordpress,strapi)]()
+
+---
+## Other systems I am familiar with
+### Operating System
+[![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali)]()
