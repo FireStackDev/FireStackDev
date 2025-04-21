@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, Welcome to my 140p cv 👋</h1>
 <p align="center">1080p Coming Soon ...</p>
 
-![Software Development](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Software Development](https://img.shields.io/badge/Software?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
 <p align="left">
   <br>- 🔭 Freelancing as Software Developer & 3D Graphics Designer
