@@ -26,22 +26,20 @@ MERN - FLUTTER - DJANGO
 
 ## 🚀 My Skillset
 
----
-
 ### 🎨 Frontend  
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,flutter)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,flutter)]
 
 ---
 
 ### 🛠️ Backend  
-[![Backend Skills](https://skillicons.dev/icons?i=js,php,django,nodejs,express,kotlin,googlecloud)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=js,php,django,nodejs,express,kotlin,googlecloud)]
 
 ---
 
 ### 🗄️ Database  
-[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres)]
 
 ---
 
 ### 🧰 Others / Tools  
-[![Other Tools](https://skillicons.dev/icons?i=wordpress,blender,photoshop,premierepro,strapi)](https://skillicons.dev)
+[![Other Tools](https://skillicons.dev/icons?i=wordpress,blender,photoshop,premierepro,strapi)]
