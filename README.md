@@ -16,16 +16,19 @@
 ## 🚀 My Skillset
 
 ### Programming Languages 
-[![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php)]() 
+[![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart)]() 
 
 ### Frontend 🎨💻🖌️ 
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react)]()
 
 ### back end 🖥️🔧⚙️
-[![Backend Skills](https://skillicons.dev/icons?i=django,php,nodejs,express,next,js,kotlin,googlecloud)]()
+[![Backend Skills](https://skillicons.dev/icons?i=django,php,nodejs,express,next,js,kotlin,googlecloud,flask)]()
 
 ### Database 🗄️💾📊 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)]()
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase)]()
+
+### AI - ML
+[![Database Skills](https://skillicons.dev/icons?i=sklearn)]()
 
 ### 3D Graphic Design 🍩
 [![Other Tools](https://skillicons.dev/icons?i=blender,photoshop,pr)]()
@@ -36,4 +39,11 @@
 ---
 ## Other systems I am familiar with
 ### Operating System
-[![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali)]()
+[![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows)]()
+
+### IDEs
+[![Other Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,eclipse)]()
+
+### Others
+
+[![Other Tools](https://skillicons.dev/icons?i=discord,docker,git,github,netlify,postman,vercel)]()
