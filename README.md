@@ -50,23 +50,15 @@
 ![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart,html,css,js,bootstrap,tailwind,jquery,flutter,react,django,php,nodejs,express,next,js,kotlin,googlecloud,flask,mysql,postgres,mongodb,sqlite,firebase)
 
 
-### AI - ML
-[![Database Skills](https://skillicons.dev/icons?i=sklearn)]()
+Database Skills](https://skillicons.dev/icons?i=sklearn)
 
-### 3D Graphic Design 🍩
-![Other Tools](https://skillicons.dev/icons?i=blender,photoshop,pr)]()
+![Other Tools](https://skillicons.dev/icons?i=blender,photoshop,pr)
 
-### Content Management Services 📝📑🌐 
-[![Other Tools](https://skillicons.dev/icons?i=wordpress,strapi)]()
+
+![Other Tools](https://skillicons.dev/icons?i=wordpress,strapi)
 
 ---
 ## Other systems I am familiar with
-### Operating System
-[![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows)]()
-
-### IDEs
+[![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows)
 [![Other Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,eclipse)]()
-
-### Others
-
 [![Other Tools](https://skillicons.dev/icons?i=discord,docker,git,github,netlify,postman,vercel)]()
