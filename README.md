@@ -47,7 +47,7 @@
 
 ## 🚀 My Skillset
 
-![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart)() 
+![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart)(#) 
 
 ![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react)()
 
