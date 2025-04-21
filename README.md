@@ -40,9 +40,6 @@ AI - ML ![Database Skills](https://skillicons.dev/icons?i=sklearn)
 Content Management Services 📝📑🌐  ![Other Tools](https://skillicons.dev/icons?i=wordpress,strapi)
 
 
-
-![Other Tools](https://skillicons.dev/icons?i=wordpress,strapi)
-
 ---
 ## Other systems I am familiar with
 ![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows)
