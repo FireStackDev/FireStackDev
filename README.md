@@ -1,12 +1,9 @@
 <h1>Hello There !</h1>
 
-<p align="left">
-  <br>- 🔭 Freelancing as Software Developer & 3D Graphics Designer
-  <br>- 📚 Ongoing - MERN
-  <br>- Learning Plan - System Design
-  <br>- ⚡ In my free time ... 3D Graphics Designer 😂
-  <br>- In my another personality I do 3D Modeling, Low Poly Model, Interior Decoration & ArchViz
-</p>
+🔭 I’m currently working on Software Development
+🌱 I’m currently learning MERN, System Design & ML
+💬 Ask me about Coding
+⚡ Fun fact: I'm also a 3D Graphics Designer
 
 <table align="center" border="0">
 <tr>
