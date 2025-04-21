@@ -38,8 +38,10 @@
 </table>
 -->
 
-| 💼 Projects                            | 🚀 Tools & Languages                                                                                      |
-|---------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**                   | ![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart)                        |
+## 🚀 My Projects
+
+| 💼 Projects                  | Desc                            | 🚀 Tools & Languages                                                                                      |
+|----------------------------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **ExamSphere** (2024)            | Marksheet management System with 3 Portals for Teacher, Student & Admin | ![Languages](https://skillicons.dev/icons?i=php,mysql,html,css,js)                        |
 
 
