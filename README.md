@@ -16,7 +16,7 @@ MERN - FLUTTER - DJANGO
 | Skills |1|2|3|4|5|6|
 |--------------------|------------|------------|----------|-------------|-----------|-----|
 | front end 🎨💻🖌️ | HTML | CSS | XML | Bootstrap | JQuery | |
-| back end 🖥️🔧⚙️ | django | php | JS | Kotlin | Appscript | Node|
+| back end 🖥️🔧⚙️ | django | php | JS | Kotlin | Appscript | Node & express |
 | dbms 🗄️💾📊 | MySQL | FireBase | Mongo | | | |
 | cms 📝📑🌐 | WordPress | | | | | |
 | native 🪟🍏🤖 | Android | Flutter | | | | |
