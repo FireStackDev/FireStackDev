@@ -2,7 +2,7 @@
 <p align="center">1080p Coming Soon ...</p>
 
 ![HTML5](https://img.shields.io/badge/-Software%20%Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![HTML5](https://img.shields.io/badge/-Android%20%App%20%Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/-Android%20%Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-Full%20%Stack%20%Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 
 <p align="left">
