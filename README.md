@@ -22,13 +22,13 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react)]()
 
 ### back end 🖥️🔧⚙️
-[![Backend Skills](https://skillicons.dev/icons?i=django,php,node,express,js,kotlin,googlecloud)]()
+[![Backend Skills](https://skillicons.dev/icons?i=django,php,node,express,next,js,kotlin,googlecloud)]()
 
 ### Database 🗄️💾📊 
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)]()
 
 ### 3D Graphic Design 🍩
-[![Other Tools](https://skillicons.dev/icons?i=blender,photoshop,premierepro)]()
+[![Other Tools](https://skillicons.dev/icons?i=blender,photoshop,pr)]()
 
 ### Content Management Services 📝📑🌐 
 [![Other Tools](https://skillicons.dev/icons?i=wordpress,strapi)]()
