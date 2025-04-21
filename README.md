@@ -47,20 +47,19 @@
 
 ## 🚀 My Skillset
 
-[![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart)]() 
+![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart)]() 
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react)]()
+![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react)]()
 
 [![Backend Skills](https://skillicons.dev/icons?i=django,php,nodejs,express,next,js,kotlin,googlecloud,flask)]()
 
-### Database 🗄️💾📊 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase)]()
+![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase)]()
 
 ### AI - ML
 [![Database Skills](https://skillicons.dev/icons?i=sklearn)]()
 
 ### 3D Graphic Design 🍩
-[![Other Tools](https://skillicons.dev/icons?i=blender,photoshop,pr)]()
+![Other Tools](https://skillicons.dev/icons?i=blender,photoshop,pr)]()
 
 ### Content Management Services 📝📑🌐 
 [![Other Tools](https://skillicons.dev/icons?i=wordpress,strapi)]()
