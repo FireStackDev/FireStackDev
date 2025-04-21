@@ -7,11 +7,15 @@
   <br>- In my another personality I do 3D Modeling, Low Poly Model, Interior Decoration & ArchViz
 </p>
 
-<p align="center">
+<table align="center">
 
-  hello world
+<tr>
 
-</p>
+hello world
+  
+</tr>
+
+</table>
 <p>
 ![Software Developer](https://img.shields.io/badge/-Full%20Stack%20Software%20Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![Software Developer](https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
