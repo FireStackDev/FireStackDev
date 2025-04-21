@@ -25,15 +25,20 @@
 
 ## 🚀 My Skillset
 
-## 🚀 My Skillset
+## 🚀 My Skillset 
+---
 
-| Programming Languages                         | ![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart)                            |
-| Frontend 🎨💻🖌️                           | ![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react)    |
-| back end 🖥️🔧⚙️                           | ![Backend Skills](https://skillicons.dev/icons?i=django,php,nodejs,express,next,js,kotlin,googlecloud,flask)  |
-| Database 🗄️💾📊                           | ![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase)     |
-| AI - ML                                   | ![Database Skills](https://skillicons.dev/icons?i=sklearn)    |
-| 3D Graphic Design 🍩                      | ![Other Tools](https://skillicons.dev/icons?i=blender,photoshop,pr)   |
-| Content Management Services 📝📑🌐        | ![Other Tools](https://skillicons.dev/icons?i=wordpress,strapi)   |
+| 💼 Skill Category                            | 🚀 Tools / Languages                                                                                      |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Programming Languages**                   | ![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart)                        |
+| **Frontend 🎨💻🖌️**                         | ![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react)           |
+| **Backend 🖥️🔧⚙️**                          | ![Backend](https://skillicons.dev/icons?i=django,php,nodejs,express,nextjs,kotlin,gcp,flask)              |
+| **Database 🗄️💾📊**                          | ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase)                       |
+| **AI / ML 🤖📈**                             | ![AI/ML](https://skillicons.dev/icons?i=sklearn)                                                           |
+| **3D & Design 🍩🎨**                         | ![Design](https://skillicons.dev/icons?i=blender,photoshop,pr)                                            |
+| **CMS 📝📑🌐**                                | ![CMS](https://skillicons.dev/icons?i=wordpress,strapi)                                                   |
+
+---
 
 
 Programming Languages ![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart) 
