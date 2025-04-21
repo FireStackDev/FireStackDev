@@ -1,9 +1,9 @@
 <h1>Hello There !</h1>
 
-🔭 I’m currently working on Software Development
-🌱 I’m currently learning MERN, System Design & ML
-💬 Ask me about Coding
-⚡ Fun fact: I'm also a 3D Graphics Designer
+- 🔭 I’m currently working on Software Development
+- 🌱 I’m currently learning MERN, System Design & ML
+- 💬 Ask me about Coding
+- ⚡ Fun fact: I'm also a 3D Graphics Designer
 
 <table align="center" border="0">
 <tr>
