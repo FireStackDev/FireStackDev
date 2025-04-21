@@ -6,6 +6,18 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
+# 📊GitHub Stats :
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FireStackDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+<td>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=FireStackDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 ![](https://github-readme-stats.vercel.app/api?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=FireStackDev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
