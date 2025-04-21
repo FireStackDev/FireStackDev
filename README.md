@@ -47,13 +47,10 @@
 
 ## 🚀 My Skillset
 
-### Programming Languages 
 [![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart)]() 
 
-### Frontend 🎨💻🖌️ 
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react)]()
 
-### back end 🖥️🔧⚙️
 [![Backend Skills](https://skillicons.dev/icons?i=django,php,nodejs,express,next,js,kotlin,googlecloud,flask)]()
 
 ### Database 🗄️💾📊 
