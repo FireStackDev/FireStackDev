@@ -1,8 +1,10 @@
 <h1 align="center"> Hi, Welcome to my 140p cv 👋</h1>
 <p align="center">1080p Coming Soon ...</p>
 
-![Software Developer](https://img.shields.io/badge/Software_Developer-Blue?style=for-the-badge&logo=python) 
-![Android App Developer](https://img.shields.io/badge/Android_App_Developer-Green?style=for-the-badge&logo=android)
+![Software Developer](https://img.shields.io/badge/Software_Developer-DarkBlue?style=for-the-badge&logo=python) 
+![Android App Developer](https://img.shields.io/badge/Android_App_Developer-DarkGreen?style=for-the-badge&logo=android) 
+![Web Developer](https://img.shields.io/badge/Web_Developer-DarkOrange?style=for-the-badge&logo=html5)
+
 
 <p align="left">
   <br>- 🔭 Freelancing as Software Developer & 3D Graphics Designer
