@@ -23,4 +23,25 @@ MERN - FLUTTER - DJANGO
 | extra features 😉 | Tailwind | PostgreSQL | Flask | strapi | | |
 | 3D Graphic Design 🍩 | Blender | Photoshop | Premiere PRO
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## 🚀 My Skillset
+
+---
+
+### 🎨 Frontend  
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,flutter)](https://skillicons.dev)
+
+---
+
+### 🛠️ Backend  
+[![Backend Skills](https://skillicons.dev/icons?i=js,php,django,nodejs,express,kotlin,googlecloud)](https://skillicons.dev)
+
+---
+
+### 🗄️ Database  
+[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres)](https://skillicons.dev)
+
+---
+
+### 🧰 Others / Tools  
+[![Other Tools](https://skillicons.dev/icons?i=wordpress,blender,photoshop,premierepro,strapi)](https://skillicons.dev)
