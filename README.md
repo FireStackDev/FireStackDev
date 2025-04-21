@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, Welcome to my 140p cv 👋</h1>
 <p align="center">1080p Coming Soon ...</p>
 
-![HTML5](https://img.shields.io/badge/-Software%20%Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![Software Developer](https://img.shields.io/badge/-Software%20Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-Android%20%Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-Full%20%Stack%20%Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 
