@@ -6,6 +6,10 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=FireStackDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <p align="left">
   <br>- 🔭 Freelancing as Software Developer & 3D Graphics Designer
   <br>- 📚 Ongoing - MERN
