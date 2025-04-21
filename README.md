@@ -23,6 +23,7 @@
 | IDE                                         | ![Other Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,eclipse)              |
 | Other Tools                                 | ![Other Tools](https://skillicons.dev/icons?i=discord,docker,git,github,netlify,postman,vercel)       |
 
+<!--
 # 📊GitHub Stats :
 <table align="center">
 <tr>
@@ -35,4 +36,10 @@
 </td>
 </tr>
 </table>
+-->
+
+| 💼 Projects                            | 🚀 Tools & Languages                                                                                      |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Programming Languages**                   | ![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart)                        |
+
 
