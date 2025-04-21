@@ -22,4 +22,3 @@ MERN - FLUTTER - DJANGO
 | native 🪟🍏🤖 | Android | Flutter | | | | |
 | extra features 😉 | Tailwind | PostgreSQL | Flask | strapi | | |
 | 3D Graphic Design 🍩 | Blender | Photoshop | Premiere PRO
-
