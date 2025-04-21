@@ -59,6 +59,6 @@
 
 ---
 ## Other systems I am familiar with
-[![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows)
-[![Other Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,eclipse)]()
-[![Other Tools](https://skillicons.dev/icons?i=discord,docker,git,github,netlify,postman,vercel)]()
+![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows)
+![Other Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,eclipse)
+![Other Tools](https://skillicons.dev/icons?i=discord,docker,git,github,netlify,postman,vercel)
