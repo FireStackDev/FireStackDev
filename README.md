@@ -24,8 +24,6 @@
 
 
 ## 🚀 My Skillset
-
-## 🚀 My Skillset 
 ---
 
 | 💼 Skill Category                            | 🚀 Tools / Languages                                                                                      |
