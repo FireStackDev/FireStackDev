@@ -24,7 +24,6 @@
 
 
 ## 🚀 My Skillset
----
 
 | 💼 Skill Category                            | 🚀 Tools / Languages                                                                                      |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------|
@@ -37,10 +36,9 @@
 | **CMS 📝📑🌐**                                | ![CMS](https://skillicons.dev/icons?i=wordpress,strapi)                                                   |
 
 ---
-
-
+| 💼 Other Tools I'm Familiar with   | 🚀 Tools                                                                                             |
+|------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Operating System                   | ![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows)                       |
+| IDE                                | ![Other Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,eclipse)              |
+| Others                             | ![Other Tools](https://skillicons.dev/icons?i=discord,docker,git,github,netlify,postman,vercel)       |
 ---
-## Other systems I am familiar with
-![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows)
-![Other Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,eclipse)
-![Other Tools](https://skillicons.dev/icons?i=discord,docker,git,github,netlify,postman,vercel)
