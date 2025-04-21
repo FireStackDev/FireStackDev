@@ -9,28 +9,6 @@
 
 
 
-
-
-
-<!-- <table align="" border="0">
-<tr>
-  <td>
-    
-  ![Software Developer](https://img.shields.io/badge/-Full%20Stack%20Software%20Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-  </td>
-
-  <td>
-    
-  ![Software Developer](https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  </td>
-
-  <td>
-    
-  ![Software Developer](https://img.shields.io/badge/-3D%20Graphics%20Designer-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  </td>
-</tr>
-</table>
--->
 # 📊GitHub Stats :
 <table align="center">
 <tr>
@@ -47,8 +25,26 @@
 
 ## 🚀 My Skillset
 
-![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart,html,css,js,bootstrap,tailwind,jquery,flutter,react,django,php,nodejs,express,next,js,kotlin,googlecloud,flask,mysql,postgres,mongodb,sqlite,firebase)
+Programming Languages 
+![Language](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart) 
 
+Frontend 🎨💻🖌️ 
+![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react)
+
+back end 🖥️🔧⚙️
+[![Backend Skills](https://skillicons.dev/icons?i=django,php,nodejs,express,next,js,kotlin,googlecloud,flask)]()
+
+Database 🗄️💾📊 
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase)]()
+
+### AI - ML
+[![Database Skills](https://skillicons.dev/icons?i=sklearn)]()
+
+### 3D Graphic Design 🍩
+[![Other Tools](https://skillicons.dev/icons?i=blender,photoshop,pr)]()
+
+### Content Management Services 📝📑🌐 
+[![Other Tools](https://skillicons.dev/icons?i=wordpress,strapi)]()
 
 ![Database Skills](https://skillicons.dev/icons?i=sklearn)
 
