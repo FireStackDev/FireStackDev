@@ -9,8 +9,7 @@
 # 📊GitHub Stats :
 <table align="center">
 <tr>
-<!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FireStackDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" /> -->
-<td><img src="[https://github-readme-stats.vercel.app/api/top-langs?username=FireStackDev&show_icons=true&locale=en&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)" />
+<td><img src="https://github-readme-stats.vercel.app/api?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </td>
 <td>
 
