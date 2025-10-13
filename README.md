@@ -12,9 +12,9 @@ test 1
 <tr>
  <td align="center" width="200">
   <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
-  ExamSphere App
-  [Project Page](projects/examsphere/page.md)
+  <a href="projects/examsphere/page.md">ExamSphere App</a>
 </td>
+
 
 <td align="center" width="200">
 
