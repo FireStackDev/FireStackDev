@@ -19,7 +19,6 @@
 | **3D & Design 🍩🎨**                       | ![Design](https://skillicons.dev/icons?i=blender,photoshop,pr)                                             |
 | **CMS 📝📑🌐**                             | ![CMS](https://skillicons.dev/icons?i=wordpress,strapi)                                                    |
 | Operating System                            | ![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows)                            |
-| IDE                                         | ![Other Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,eclipse)                   |
 | Other Tools                                 | ![Other Tools](https://skillicons.dev/icons?i=discord,docker,git,github,netlify,postman,vercel)            |
 
 <!--
