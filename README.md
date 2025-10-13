@@ -11,8 +11,9 @@ test 1
 <table>
 <tr>
  <td align="center" width="200">
- <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
- ExamSphere App
+  <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
+  ExamSphere App
+  [Project Page](projects/examsphere/page.md)
 </td>
 
 <td align="center" width="200">
@@ -24,10 +25,6 @@ test 1
 </tr>
 </table>
 
-
-
-
-- [Project Page](projects/examsphere/page.md)
 
 ## 🚀 Technologies I am familiar with ...
 | 💼 Category                                 | 🚀 Tools & Languages                                                                                     |         
