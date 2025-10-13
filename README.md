@@ -63,6 +63,10 @@
     <td align="center" valign="top" width="200">
       <img src="assets/web_project.png" width="160" /><br>
       <h3>ExamSphere</h3>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
+      <img src="icons/appscript.png" width="30" height="30">
+      <img src="icons/sheets.webp" width="30" height="30">
       Marksheet Management System
       <br>
       <br>
@@ -73,6 +77,10 @@
     <td align="center" valign="top" width="200">
       <img src="assets/project_2.jpg" width="160" /><br>
       <h3>EduSmart</h3>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
+      <img src="icons/appscript.png" width="30" height="30">
+      <img src="icons/sheets.webp" width="30" height="30">
       Educational ERP Software for Dept, Faculty, Student, Paper and other managements
       <br>
       <br>
@@ -98,6 +106,10 @@
       <img src="assets/desktop_project.jpg" width="160" />
       <br>
       <h3>Barcode POS App</h3>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
+      <img src="icons/appscript.png" width="30" height="30">
+      <img src="icons/sheets.webp" width="30" height="30">
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
       <br>
       <br>
@@ -105,6 +117,58 @@
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
+  </tr>
+  <tr>
+  <td align="center" valign="top" width="200">
+  <img src="assets/desktop_project.jpg" width="160" />
+      <br>
+      <h3>Barcode POS App</h3>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
+      <img src="icons/appscript.png" width="30" height="30">
+      <img src="icons/sheets.webp" width="30" height="30">
+      Android Mobile App for Attendance Management System with Photo Capture & Geofencing
+      <br>
+      <br>
+      <a href="projects/smart_education">
+        <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
+      </a>
+  </td>
+  <td align="center" valign="top" width="200">
+  <img src="assets/desktop_project.jpg" width="160" />
+      <br>
+      <h3>Barcode POS App</h3>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
+      <img src="icons/appscript.png" width="30" height="30">
+      <img src="icons/sheets.webp" width="30" height="30">
+      Android Mobile App for Attendance Management System with Photo Capture & Geofencing
+      <br>
+      <br>
+      <a href="projects/smart_education">
+        <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
+      </a>
+  </td>
+  <td align="center" valign="top" width="200">
+  <img src="assets/desktop_project.jpg" width="160" />
+      <br>
+      <h3>Barcode POS App</h3>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
+      <img src="icons/appscript.png" width="30" height="30">
+      <img src="icons/sheets.webp" width="30" height="30">
+      Android Mobile App for Attendance Management System with Photo Capture & Geofencing
+      <br>
+      <br>
+      <a href="projects/smart_education">
+        <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
+      </a>
+  </td>
+  <td align="center" valign="center" width="200">
+  <img src="icons/circle-right-arrow.png" width="80" />
+      <br>
+      <h3>See More ... </h3>
+  </td>
   </tr>
 </table>
 
