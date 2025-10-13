@@ -48,7 +48,7 @@
       <br>
       <h3 face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
         ⚠️ Most of my repositories are <b>private</b> due to privacy & other reasons.
-      </h3> <br>
+      </h3>
     </td>
   </tr>
 </table>
