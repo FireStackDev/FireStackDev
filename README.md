@@ -37,7 +37,7 @@
 
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
     ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
     please visit 
       <br>
