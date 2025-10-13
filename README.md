@@ -168,7 +168,7 @@
   </tr>
 </table>
 
-<table>
+<table width="100%" align="center">
   <tr>
     <th>💼 Category</th>
     <th>🚀 Tools & Languages</th>
