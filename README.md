@@ -83,17 +83,16 @@
     <td align="center" valign="top" width="200">
       <img src="assets/android_project_2.jpg" width="160" /><br>
       <h3>Attendance App</h3>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
+      <img src="icons/appscript.png" width="30" height="30">
+      <img src="icons/sheets.webp" width="30" height="30">
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
       <br>
       <br>
       <a href="projects/smart_education">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
-      <br>
-      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
-      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
-      <img src="icons/appscript.png" width="30" height="30">
-      <img src="icons/sheets.webp" width="30" height="30">
     </td>
     <td align="center" valign="top" width="200">
       <img src="assets/desktop_project.jpg" width="160" />
