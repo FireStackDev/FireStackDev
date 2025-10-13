@@ -61,13 +61,13 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="200">
-      <img src="assets/web_project.png" width="160" /><br>
+      <img src="assets/web_project.png" width="160" height="160" />
       <h3>ExamSphere</h3>
       <img src="https://skillicons.dev/icons?i=php" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
       <img src="icons/js.png" width="30" height="30">
       <img src="icons/jquery.png" width="30" height="30">
-      Marksheet Management System
+      Marksheet Management System with dedicated Portals for teacher, student & controller with smart automation algo
       <br>
       <br>
       <a href="projects/examsphere/readme.md">
@@ -75,12 +75,14 @@
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <img src="assets/project_2.jpg" width="160" /><br>
+      <img src="assets/project_2.jpg" width="160" height="160" /><br>
       <h3>EduSmart</h3>
-      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
-      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
-      <img src="icons/appscript.png" width="30" height="30">
-      <img src="icons/sheets.webp" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=next" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=mui" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=django" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="30" height="30">
+      <!-- <img src="icons/shadcn.png" width="30" height="30"> -->
+      <br>
       Educational ERP Software for Dept, Faculty, Student, Paper and other managements
       <br>
       <br>
@@ -89,7 +91,7 @@
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <img src="assets/android_project_2.jpg" width="160" /><br>
+      <img src="assets/android_project_2.jpg" width="160" height="160"/><br>
       <h3>Attendance App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
@@ -103,13 +105,13 @@
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <img src="assets/desktop_project.jpg" width="160" />
+      <img src="assets/desktop_project.jpg" width="160" height="160" />
       <br>
       <h3>Barcode POS App</h3>
-      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
-      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
-      <img src="icons/appscript.png" width="30" height="30">
-      <img src="icons/sheets.webp" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=electron" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=js" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=html" width="30" height="30">
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
       <br>
       <br>
@@ -120,7 +122,7 @@
   </tr>
   <tr>
   <td align="center" valign="top" width="200">
-  <img src="assets/desktop_project.jpg" width="160" />
+  <img src="assets/desktop_project.jpg" width="160" height="160" />
       <br>
       <h3>Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
@@ -135,7 +137,7 @@
       </a>
   </td>
   <td align="center" valign="top" width="200">
-  <img src="assets/desktop_project.jpg" width="160" />
+  <img src="assets/desktop_project.jpg" width="160" height="160" />
       <br>
       <h3>Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
@@ -150,7 +152,7 @@
       </a>
   </td>
   <td align="center" valign="top" width="200">
-  <img src="assets/desktop_project.jpg" width="160" />
+  <img src="assets/desktop_project.jpg" width="160" height="160" />
       <br>
       <h3>Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
