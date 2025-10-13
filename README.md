@@ -59,7 +59,7 @@
 <table>
   <tr>
     <td align="center" valign="top" width="200">
-      <img src="assets/web_project.png" width="80" /><br><br>
+      <img src="assets/web_project.png" width="100" /><br><br>
       <h3>ExamSphere</h3>
       <br>
       Marksheet Management System<br><br>
@@ -68,7 +68,7 @@
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <img src="assets/project_2.jpg" width="80" /><br><br>
+      <img src="assets/project_2.jpg" width="100" /><br><br>
       <h3>EduSmart</h3>
       <br>
       Educational ERP Software for Dept, Faculty, Student, Paper and other managements<br><br>
@@ -77,7 +77,7 @@
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <img src="assets/project_2.jpg" width="80" /><br><br>
+      <img src="assets/project_2.jpg" width="100" /><br><br>
       <h3>Attendance App</h3>
       <br>
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
