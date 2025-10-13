@@ -1,6 +1,6 @@
 # 📝 ExamSphere - Marksheet Management System
 
-A comprehensive system for managing exams, marksheets, and student results.
+A comprehensive monolithic PHP system for managing exams, marksheets, and student results.
 Supports Admin, Teacher, and Student portals with full CRUD operations and streamlined workflows.
 
 ---
@@ -9,7 +9,7 @@ Supports Admin, Teacher, and Student portals with full CRUD operations and strea
 
 ### Admin Portal
 
-* ✅ CRUD operations for Paper, Stream, Exam, Student, Teacher, and Marksheet
+* ✅ Manage Papers, Streams, Exams, Students, Teachers, and Marksheets
 * 🔓 Open/Close Enrolment
 * 🎯 Assign Head Examiners
 * 📝 Distribute Papers
@@ -18,16 +18,15 @@ Supports Admin, Teacher, and Student portals with full CRUD operations and strea
 
 ### Student Portal
 
-* 🧑‍🎓 Student Registration
-* 🔑 Login
-* 📝 Profile Update
-* 📋 Enrol/Cancel Enrolment in Exams
+* 🧑‍🎓 Register & Login
+* 📝 Update Profile
+* 📋 Enrol/Cancel Exam
 * 🏆 Check Results
 
 ### Teacher Portal
 
 * 🔑 Login
-* 📝 Profile Update
+* 📝 Update Profile
 * 📤 Upload Marks
 
 ---
@@ -35,47 +34,49 @@ Supports Admin, Teacher, and Student portals with full CRUD operations and strea
 ## 📊 Exam Schema
 
 1. **Create Papers**
-2. **Create Streams** → Add papers to the stream
-3. **Create Examination** → Add streams to the examination
+2. **Create Streams** → Add papers to streams
+3. **Create Examinations** → Add streams to exams
 
 ---
 
-## 💻 Project Structure
+## 💻 Project Structure (Concise)
 
 ```
 /exam-sphere
+│   README.md
+│   index.php
+│   login.php
+│   *.sql, *.php, *.css
 │
 ├─ /admin
+│   ├─ *.php, *.css, *.js
+
 ├─ /teacher
-├─ /student
-├─ /papers
-├─ /streams
-└─ /marksheets
+│   ├─ *.php, *.css, *.js
+
+├─ /candidate
+│   ├─ *.php, *.css, *.js
+
+├─ /assets
+│   ├─ *.png, *.jpg
+
+├─ /include
+│   ├─ connect.php, header.php
+
+├─ /phpqrcode
+│   ├─ *.php, /bindings, /cache, /tools
+
+├─ /profile_img
+│   ├─ /admin, /student, /teacher
+
+├─ /qr_codes
+│   ├─ *.png
+
+└─ /side nav
+    ├─ sidenav.php, sidenav.css
 ```
 
----
-
-## ⚡ Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/examsphere.git
-```
-
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Configure the database and `.env` file.
-
-4. Run the application:
-
-```bash
-python manage.py runserver
-```
+> **Tip:** Use `tree /F` in Windows CMD to display the full file and folder hierarchy.
 
 ---
 
