@@ -1,10 +1,11 @@
 <h1 align="center">Hello There !</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=green" alt="Android Dev" />
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Software%20Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Full Stack Dev" />
-  <img src="https://img.shields.io/badge/-3D%20Graphics%20Designer-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="3D Designer" />
+  <img src="https://img.shields.io/badge/-Android%20App%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Dev" />
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Software%20Developer-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Full Stack Dev" />
+  <img src="https://img.shields.io/badge/-3D%20Graphics%20Designer-FF4081?style=for-the-badge&logo=blender&logoColor=white" alt="3D Designer" />
 </p>
+
 
 - 🔭 I’m aspiring Software Developer
 - 🌱 I’m currently learning MERN, System Design & ML
