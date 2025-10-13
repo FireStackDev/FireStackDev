@@ -58,7 +58,7 @@
 ## 🚀 Explore My Projects here 
 <table width="100%" align="center" >
   <tr width="100%">
-    <td align="center" valign="top" >
+    <td align="center" valign="top" width="300"" >
       <img src="projects/examsphere/logo.png" width="120" height="120" />
       <h3 >ExamSphere</h3>
       <img src="https://skillicons.dev/icons?i=php" width="30" height="30">
@@ -89,7 +89,7 @@
           <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
-    <td align="center" valign="top" >
+    <td align="center" valign="top" width="300"" >
       <img src="projects/attendance app/icon.webp" width="120" height="120"/><br>
       <h3 size="6"> 
       Attendance App
@@ -110,7 +110,7 @@
     
   </tr>
   <tr>
-  <td align="center" valign="top" >
+  <td align="center" valign="top" width="300"" >
       <img src="projects/barcode_pos/favicon.ico" width="120" height="120" />
       <br>
       <h3 size="6">Barcode POS App</h3>
@@ -127,7 +127,7 @@
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
-  <td align="center" valign="top" >
+  <td align="center" valign="top" width="300"" >
   <img src="projects/barcode_pos/favicon.ico" width="120" height="120" />
       <br>
       <h3 size="6">Sticky Note App</h3>
@@ -143,7 +143,7 @@
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
   </td>
-  <td align="center" valign="top" >
+  <td align="center" valign="top" width="300"" >
   <img src="assets/desktop_project.jpg" width="120" height="120" />
       <br>
       <h3 size="6">Simple Ecommerce App</h3>
