@@ -59,7 +59,7 @@
 <table>
   <tr>
     <td align="center" valign="top" width="200">
-      <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80" /><br><br>
+      <img src="assets/" width="80" /><br><br>
       <b>ExamSphere</b><br>
       Marksheet Management System<br><br>
       <a href="projects/examsphere/readme.md">
