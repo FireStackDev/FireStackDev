@@ -14,7 +14,7 @@ test 1
   <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
   <b>ExamSphere</b> 
   <br>
-  <a href="projects/examsphere/page.md">
+  <a href="projects/examsphere/readme.md">
    <Button>Know More</Button>
   </a>
 </td>
