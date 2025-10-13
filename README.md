@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/💡-Friendly%20Notice-yellow?style=for-the-badge" alt="Notice"/><br>
-  ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
-  please visit my <a href="https://yourportfolio.com">Portfolio Website 🌐</a>.<br>
-  Most of my repositories are <b>private</b> due to privacy & security purposes.
-</p>
-
 <h1>Hello There !</h1>
 
 ![Software Developer](https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Software Developer](https://img.shields.io/badge/-Full%20Stack%20Software%20Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Software Developer](https://img.shields.io/badge/-3D%20Graphics%20Designer-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -14,7 +7,12 @@
 - 💬 Ask me about Coding, Android App development
 - ⚡ Fun fact: I'm also a 3D Graphics Designer
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/💡-Friendly%20Notice-yellow?style=for-the-badge" alt="Notice"/><br>
+  ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
+  please visit my <a href="https://yourportfolio.com">Portfolio Website 🌐</a>.<br>
+  Most of my repositories are <b>private</b> due to privacy & security purposes.
+</p>
 
 ## Explore My Projects here 
 <table>
