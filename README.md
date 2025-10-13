@@ -170,9 +170,9 @@
   </tr>
 </table>
 
-<h3>
+<h2 align="center">
   Tools I am Familiar with ...
-</h3>
+</h2>
 <table width="100%" align="center">
   <tr>
     <th>💼 Category</th>
