@@ -91,7 +91,7 @@
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <img src="assets/android_project_2.jpg" width="160" height="160"/><br>
+      <img src="projects/attendance app/icon.webp" width="160" height="160"/><br>
       <h3>Attendance App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
