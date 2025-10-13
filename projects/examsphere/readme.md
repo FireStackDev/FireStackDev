@@ -56,8 +56,8 @@ Supports Admin, Teacher, and Student portals with full CRUD operations and strea
 ---
 
 ## 🌟 Screenshots
+### Login Pages
 <p align="center">
-  
 <img src="assets/login_teacher.png" height="300"/>
 <img src="assets/login admin.png" height="300"/>
 <img src="assets/login student.png" height="300"/>
