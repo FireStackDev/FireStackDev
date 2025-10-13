@@ -57,7 +57,7 @@ Supports Admin, Teacher, and Student portals with full CRUD operations and strea
 
 ## 🌟 Screenshots
 
-<img src="assets/login_teacher.png"/>
+<img src="assets/login_teacher.png" width="400"/>
 ![Student Portal](https://via.placeholder.com/400x200?text=Student+Portal)
 ![Teacher Portal](https://via.placeholder.com/400x200?text=Teacher+Portal)
 
