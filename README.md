@@ -16,8 +16,9 @@
 - ⚡ Agile, productive, intuitive, and innovative. Believer in learning by reading docs and building projects.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&text=🚀%20Technologies%20I%20am%20familiar%20with&fontSize=24&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007bff&height=40&section=header&text=🚀%20Technologies%20I%20am%20familiar%20with&fontSize=22&fontColor=ffffff" />
 </p>
+
 
 
 <div align="">
