@@ -161,9 +161,11 @@
   </td>
   </tr>
   <tr>
-  <td colspan="3" align="center" valign="center" >
-    <h3 size="6">Explore All Projects ... </h3> <br>
-    <img src="icons/circle-right-arrow.png" width="40" />
+  <td colspan="3" align="center" valign="center">
+    <h3>
+    Explore All Projects ... 
+    </h3>
+    <img src="icons/circle-right-arrow.png" width="30" />
   </td>
   </tr>
 </table>
