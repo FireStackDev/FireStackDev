@@ -1,6 +1,6 @@
 <p align="center">
-  ⚠️ <b>Disclaimer:</b><br>
-  For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
+  <img src="https://img.shields.io/badge/💡-Friendly%20Notice-yellow?style=for-the-badge" alt="Notice"/><br>
+  ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
   please visit my <a href="https://yourportfolio.com">Portfolio Website 🌐</a>.<br>
   Most of my repositories are <b>private</b> due to privacy & security purposes.
 </p>
