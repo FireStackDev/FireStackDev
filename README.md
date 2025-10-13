@@ -75,7 +75,7 @@
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
-    <td align="center" valign="top" width="200">
+    <td align="center" valign="top">
       <img src="assets/project_2.jpg" width="160" height="160" /><br>
       <h3>EduSmart</h3>
       <img src="https://skillicons.dev/icons?i=next" width="30" height="30">
@@ -91,7 +91,7 @@
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
-    <td align="center" valign="top" width="200">
+    <td align="center" valign="top">
       <img src="projects/attendance app/icon.webp" width="160" height="160"/><br>
       <h3>Attendance App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
@@ -108,7 +108,7 @@
     
   </tr>
   <tr>
-  <td align="center" valign="top" width="200">
+  <td align="center" valign="top">
       <img src="projects/barcode_pos/favicon.ico" width="160" height="160" />
       <br>
       <h3>Barcode POS App</h3>
@@ -123,7 +123,7 @@
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
-  <td align="center" valign="top" width="200">
+  <td align="center" valign="top">
   <img src="projects/barcode_pos/favicon.ico" width="160" height="160" />
       <br>
       <h3>Barcode POS App</h3>
@@ -138,7 +138,7 @@
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
   </td>
-  <td align="center" valign="top" width="200">
+  <td align="center" valign="top">
   <img src="assets/desktop_project.jpg" width="160" height="160" />
       <br>
       <h3>Barcode POS App</h3>
@@ -155,7 +155,7 @@
   </td>
   </tr>
   <tr>
-  <td colspan="3" align="center" valign="center" width="200">
+  <td colspan="3" align="center" valign="center">
     <h3>Explore All Projects ... </h3>
     <img src="icons/circle-right-arrow.png" width="40" />
   </td>
