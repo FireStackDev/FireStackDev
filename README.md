@@ -38,7 +38,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <h3 face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
+      <h3>
         ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews — please visit
       </h3>
       <br>
