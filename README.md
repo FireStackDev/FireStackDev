@@ -90,11 +90,20 @@
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
+    <td align="center" valign="top" width="200">
+      <img src="assets/desktop_project.jpg" width="160" />
+      <img src="https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart" width="250">
+      <br>
+      <h3>Barcode POS App</h3>
+      Android Mobile App for Attendance Management System with Photo Capture & Geofencing
+      <br>
+      <br>
+      <a href="projects/smart_education">
+        <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
+      </a>
+    </td>
   </tr>
 </table>
-
-
-
 
 ## 🚀 Technologies I am familiar with ...
 | 💼 Category                                 | 🚀 Tools & Languages                                                                                     |         
