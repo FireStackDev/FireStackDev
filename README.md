@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Android%20App%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Dev" />
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Software%20Developer-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Full Stack Dev" />
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Software%20Developer-1d4ed8?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Full Stack Dev" />
   <img src="https://img.shields.io/badge/-3D%20Graphics%20Designer-FF4081?style=for-the-badge&logo=blender&logoColor=white" alt="3D Designer" />
 </p>
 
