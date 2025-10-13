@@ -1,14 +1,14 @@
 <h1>Hello There !</h1>
 
-![Software Developer](https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white)    
-![Software Developer](https://img.shields.io/badge/-Full%20Stack%20Software%20Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![Software Developer](https://img.shields.io/badge/-3D%20Graphics%20Designer-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![Software Developer](https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Software Developer](https://img.shields.io/badge/-Full%20Stack%20Software%20Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Software Developer](https://img.shields.io/badge/-3D%20Graphics%20Designer-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 
 - 🔭 I’m aspiring Software Developer
 - 🌱 I’m currently learning MERN, System Design & ML
 - 💬 Ask me about Coding, Android App development
 - ⚡ Fun fact: I'm also a 3D Graphics Designer
 
+
+- [Project Page](projects/examsphere/page.md)
 
 ## 🚀 Technologies I am familiar with ...
 | 💼 Category                                 | 🚀 Tools & Languages                                                                                     |         
