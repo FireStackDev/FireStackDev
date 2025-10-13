@@ -1,37 +1,92 @@
-# 🚀 Project Name
+# 📝 ExamSphere - Marksheet Management System
 
-**Overview:**
-A concise, professional summary of the project highlighting its purpose, core problem it solves, and value proposition.
+A comprehensive system for managing exams, marksheets, and student results.
+Supports Admin, Teacher, and Student portals with full CRUD operations and streamlined workflows.
 
-**Tech Stack:**
+---
 
-* Language / Framework: Example
-* Database / Storage: Example
-* Tools / Libraries: Example
+## 🚀 Features
 
-**Key Features:**
+### Admin Portal
 
-1. Feature 1 — brief explanation
-2. Feature 2 — brief explanation
-3. Feature 3 — brief explanation
+* ✅ CRUD operations for Paper, Stream, Exam, Student, Teacher, and Marksheet
+* 🔓 Open/Close Enrolment
+* 🎯 Assign Head Examiners
+* 📝 Distribute Papers
+* 🔒 Lock/Unlock Marks Upload
+* 📤 Publish Marksheets
 
-**Demo / Screenshots:**
-![Project Screenshot](../assets/project1_screenshot.png)
-[Live Demo](https://yourdemo.link)
+### Student Portal
 
-**Source Code:**
-Private (available upon request)
+* 🧑‍🎓 Student Registration
+* 🔑 Login
+* 📝 Profile Update
+* 📋 Enrol/Cancel Enrolment in Exams
+* 🏆 Check Results
 
-**Timeline & Contributions:**
+### Teacher Portal
 
-* **Start Date:** YYYY-MM-DD
-* **Completion Date:** YYYY-MM-DD
-* **Roles & Responsibilities:** Brief description of your contributions
-* **Challenges & Learnings:** Key takeaways or technical challenges overcome
+* 🔑 Login
+* 📝 Profile Update
+* 📤 Upload Marks
 
-**Additional Resources / Links:**
+---
 
-* [Documentation](#)
-* [Related Article / Blog](#)
+## 📊 Exam Schema
 
-*Duplicate this template for each project under its own folder/file.*
+1. **Create Papers**
+2. **Create Streams** → Add papers to the stream
+3. **Create Examination** → Add streams to the examination
+
+---
+
+## 💻 Project Structure
+
+```
+/exam-sphere
+│
+├─ /admin
+├─ /teacher
+├─ /student
+├─ /papers
+├─ /streams
+└─ /marksheets
+```
+
+---
+
+## ⚡ Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/examsphere.git
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Configure the database and `.env` file.
+
+4. Run the application:
+
+```bash
+python manage.py runserver
+```
+
+---
+
+## 🌟 Screenshots
+
+![Admin Dashboard](https://via.placeholder.com/400x200?text=Admin+Dashboard)
+![Student Portal](https://via.placeholder.com/400x200?text=Student+Portal)
+![Teacher Portal](https://via.placeholder.com/400x200?text=Teacher+Portal)
+
+---
+
+## 📌 License
+
+MIT License © 2025
