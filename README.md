@@ -41,7 +41,8 @@
     ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
     please visit 
       <br>
-<img src="https://raw.githubusercontent.com/FireStackDev/repo/main/assets/website.png" width="24" height="24" />
+          <img src="assets/website.png" width="40" height="40" alt="YouTube" />
+
 <img src="https://img.shields.io/badge/Website-16a34a?style=for-the-badge&logo=https://raw.githubusercontent.com/FireStackDev/repo/main/assets/website.png&logoColor=white" />
       <br>
       Most of my repositories are <b>private</b> due to privacy & other reasons.
