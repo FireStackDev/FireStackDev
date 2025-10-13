@@ -12,26 +12,17 @@ test 1
 <tr>
 <td align="center" width="200">
 <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
-### TaskFlow<br>
+### TaskFlow 
 **A productivity dashboard**<br>
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://yourdemo.link)<br>
 [![Source](https://img.shields.io/badge/Source-orange?style=for-the-badge&logo=github)](projects/taskflow.md)
 </td>
 
 <td align="center" width="200">
-<img src="https://www.svgrepo.com/show/374122/ai.svg" width="80"/><br>
-### AI Resume Parser<br>
-**AI tool to parse resumes**<br>
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://yourdemo.link)<br>
-[![Source](https://img.shields.io/badge/Source-orange?style=for-the-badge&logo=github)](projects/ai-resume-parser.md)
+
 </td>
 
 <td align="center" width="200">
-<img src="https://www.svgrepo.com/show/354053/portfolio.svg" width="80"/><br>
-### Portfolio Website<br>
-**Personal portfolio**<br>
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://yourdemo.link)<br>
-[![Source](https://img.shields.io/badge/Source-orange?style=for-the-badge&logo=github)](projects/portfolio.md)
 </td>
 </tr>
 </table>
