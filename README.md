@@ -179,7 +179,7 @@
 <table width="100%" align="center">
   <tr>
     <td align="center" valign="top" width="25%">
-      <h3>Programming Languages</h3>
+      <h3>Languages</h3>
       <img src="https://skillicons.dev/icons?i=java" width="45" />
       <img src="https://skillicons.dev/icons?i=python" width="45" />
       <img src="https://skillicons.dev/icons?i=c" width="45" />
