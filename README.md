@@ -58,7 +58,7 @@
 
 
 ## 🚀 Explore My Projects here 
-<table>
+<table width="100%">
   <tr>
     <td align="center" valign="top" width="200">
       <img src="assets/web_project.png" width="160" /><br>
