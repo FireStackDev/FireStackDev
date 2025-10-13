@@ -62,7 +62,7 @@
   <tr width="100%">
     <td align="center" valign="top" >
       <img src="projects/examsphere/logo.png" width="160" height="160" />
-      <h3 >ExamSphere</h3> <br>
+      <h3 >ExamSphere</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=php" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
@@ -77,7 +77,7 @@
     </td>
     <td align="center" valign="top" >
       <img src="assets/project_2.jpg" width="160" height="160" /><br>
-      <h3 size="6">EduSmart</h3> <br>
+      <h3 size="6">EduSmart</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=next" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=mui" width="30" height="30">
@@ -94,7 +94,7 @@
     </td>
     <td align="center" valign="top" >
       <img src="projects/attendance app/icon.webp" width="160" height="160"/><br>
-      <h3 size="6">Attendance App</h3> <br>
+      <h3 size="6">Attendance App</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
@@ -113,7 +113,7 @@
   <td align="center" valign="top" >
       <img src="projects/barcode_pos/favicon.ico" width="160" height="160" />
       <br>
-      <h3 size="6">Barcode POS App</h3> <br>
+      <h3 size="6">Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=electron" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=sqlite" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=js" width="30" height="30">
@@ -128,7 +128,7 @@
   <td align="center" valign="top" >
   <img src="projects/barcode_pos/favicon.ico" width="160" height="160" />
       <br>
-      <h3 size="6">Barcode POS App</h3> <br>
+      <h3 size="6">Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
       <img src="icons/appscript.png" width="30" height="30">
@@ -143,7 +143,7 @@
   <td align="center" valign="top" >
   <img src="assets/desktop_project.jpg" width="160" height="160" />
       <br>
-      <h3 size="6">Barcode POS App</h3> <br>
+      <h3 size="6">Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
       <img src="icons/appscript.png" width="30" height="30">
