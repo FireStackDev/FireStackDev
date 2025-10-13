@@ -38,7 +38,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <p style="font-size:18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+      <p style="font-size:100px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
         ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
         please visit
       </p>
