@@ -7,10 +7,22 @@
 - 💬 Ask me about Coding, Android App development
 - ⚡ Fun fact: I'm also a 3D Graphics Designer
 
-
+test 1
 | Project 1 | Project 2 | Project 3 |
 |-----------|-----------|-----------|
 | ![Proj1](./assets/proj1.png) <br> **TaskFlow** <br> [Demo](https://demo.link) | ![Proj2](./assets/proj2.png) <br> **AI Parser** <br> [Demo](https://demo.link) | ![Proj3](./assets/proj3.png) <br> **Portfolio** <br> [Demo](https://demo.link) |
+
+
+test 2
+[![TaskFlow](https://img.shields.io/badge/TaskFlow-blue?style=for-the-badge)](https://demo.link)
+[![AI Parser](https://img.shields.io/badge/AI-Parser-green?style=for-the-badge)](https://demo.link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://demo.link)
+
+
+test 3
+[![TaskFlow](./assets/taskflow_thumb.png)](https://demo.link)
+[![AI Parser](./assets/aiparser_thumb.png)](https://demo.link)
+[![Portfolio](./assets/portfolio_thumb.png)](https://demo.link)
 
 
 - [Project Page](projects/examsphere/page.md)
