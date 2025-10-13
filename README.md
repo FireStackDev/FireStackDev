@@ -90,7 +90,7 @@
       </a>
     </td>
     <td align="center" valign="top" width="400" >
-      <img src="projects/attendance app/icon.webp" width="120" height="120"/><br>
+      <img src="projects/attendance app/icon.jpg" width="120" height="120"/><br>
       <h3 size="6"> 
       Attendance App
       </h3>
@@ -128,7 +128,7 @@
       </a>
     </td>
   <td align="center" valign="top" width="400" >
-  <img src="projects/barcode_pos/favicon.ico" width="120" height="120" />
+  <img src="assets/android_project_4.png" width="120" height="120" />
       <br>
       <h3 size="6">Sticky Note App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
@@ -144,7 +144,7 @@
       </a>
   </td>
   <td align="center" valign="top" width="400" >
-  <img src="assets/desktop_project.jpg" width="120" height="120" />
+  <img src="assets/web_project.png" width="120" height="120" />
       <br>
       <h3 size="6">Simple Ecommerce App</h3>
       <img src="https://skillicons.dev/icons?i=django" width="30" height="30">
