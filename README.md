@@ -42,7 +42,7 @@
         ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews — please visit
       </h3>
       <br>
-      <a href="https://agni-dev.vercel.app/">
+      <a href="https://agni-dev.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/My Portfolio Site-16a34a?style=for-the-badge&logoColor=white" />
       </a>
       <br>
