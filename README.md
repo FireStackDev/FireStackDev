@@ -85,6 +85,7 @@
       <div>
       Educational ERP Software for Dept, Faculty, Student, Paper and other managements
       </div>
+      <br>
       <a href="projects/smart_education">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
@@ -99,6 +100,7 @@
       <div>
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
       </div>
+      <br>
       <a href="projects/smart_education">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
@@ -117,6 +119,7 @@
       <div>
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
       </div>
+      <br>
       <a href="projects/smart_education">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
@@ -129,8 +132,9 @@
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
       <img src="icons/appscript.png" width="30" height="30">
       <img src="icons/sheets.webp" width="30" height="30">
-      Android Mobile App for Attendance Management System with Photo Capture & Geofencing
-      <br>
+      <div>  
+        Android Mobile App for Attendance Management System with Photo Capture & Geofencing
+      </div>
       <br>
       <a href="projects/smart_education">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
@@ -147,6 +151,7 @@
       <div>
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
       </div>
+      <br>
       <a href="projects/smart_education">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
