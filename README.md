@@ -179,6 +179,48 @@
 <h2 align="center"> Tools I am Familiar with ... </h2> <table width="100%" align="center"> <tr> <th>💼 Category</th> <th>🚀 Tools & Languages</th> </tr> <tr> <td><b>Programming Languages</b></td> <td> <img src="https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart" /> </td> </tr> <tr> <td><b>Frontend 🎨💻🖌️</b></td> <td> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react" /> </td> </tr> <tr> <td><b>Backend 🖥️🔧⚙️</b></td> <td> <img src="https://skillicons.dev/icons?i=django,php,nodejs,express,nextjs,kotlin,gcp,flask,wordpress" /> </td> </tr> <tr> <td><b>Database 🗄️💾📊</b></td> <td> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase" /> </td> </tr> <tr> <td><b>AI / ML 🤖📈</b></td> <td> <img src="https://skillicons.dev/icons?i=sklearn" /> </td> </tr> <tr> <td><b>3D & Design 🍩🎨</b></td> <td> <img src="https://skillicons.dev/icons?i=blender,photoshop,pr" /> </td> </tr> <tr> <td><b>Operating System</b></td> <td> <img src="https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows" /> </td> </tr> <tr> <td><b>Other Tools</b></td> <td> <img src="https://skillicons.dev/icons?i=docker,git,github,netlify,postman,vercel" /> </td> </tr> </table>
 
 
+<h2 align="center">Tools I am Familiar with ...</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="25%">
+      <b>Programming Languages</b><br>
+      <img src="https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>Frontend 🎨💻🖌️</b><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>Backend 🖥️🔧⚙️</b><br>
+      <img src="https://skillicons.dev/icons?i=django,php,nodejs,express,nextjs,kotlin,gcp,flask,wordpress" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>Database 🗄️💾📊</b><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase" width="40" height="40" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="25%">
+      <b>AI / ML 🤖📈</b><br>
+      <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>3D & Design 🍩🎨</b><br>
+      <img src="https://skillicons.dev/icons?i=blender,photoshop,pr" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>Operating System</b><br>
+      <img src="https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>Other Tools</b><br>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,netlify,postman,vercel" width="40" height="40" />
+    </td>
+  </tr>
+</table>
+
 <!--
 # 📊GitHub Stats :
 <table align="center">
