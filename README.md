@@ -19,9 +19,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&text=🚀%20Technologies%20I%20am%20familiar%20with&fontSize=24&fontColor=000000" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40&section=header&text=🚀%20Technologies%20I%20am%20familiar%20with&fontSize=24&fontColor=000000" />
-</p>
+</p> -->
 
 
 
