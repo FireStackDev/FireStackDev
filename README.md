@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40" alt="LeetCode" />
+    <img src="assets/leetcode.png" width="40" height="40" alt="LeetCode" />
   </a>
   <a href="https://www.youtube.com/c/yourchannel" target="_blank">
     <img src="https://skillicons.dev/icons?i=youtube" width="40" height="40" alt="YouTube" />
