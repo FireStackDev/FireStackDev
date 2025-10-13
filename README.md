@@ -15,9 +15,6 @@
 - 🤖 Build web & mobile apps, AI/ML projects, and creative 3D/graphics solutions combining functionality and visual appeal. 
 - ⚡ Agile, productive, intuitive, and innovative. Believer in learning by reading docs and building projects.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&text=🚀%20Technologies%20I%20am%20familiar%20with&fontSize=24&fontColor=ffffff" />
-</p>
 
 <div align="">
 <b>Find me at ... </b>
@@ -41,9 +38,9 @@
 <table align="center">
   <tr>
     <td align="center">
-      <font face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
+      <h3 face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
         ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews — please visit
-      </font>
+      </h3>
       <br>
       <br>
       <a href="https://agni-dev.vercel.app/">
@@ -51,9 +48,9 @@
       </a>
       <br>
       <br>
-      <font face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
+      <h3 face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
         ⚠️ Most of my repositories are <b>private</b> due to privacy & other reasons.
-      </font>
+      </h3>
     </td>
   </tr>
 </table>
@@ -65,7 +62,7 @@
   <tr width="100%">
     <td align="center" valign="top" >
       <img src="projects/examsphere/logo.png" width="160" height="160" />
-      <font size="10">ExamSphere</font>
+      <h3 >ExamSphere</h3>
       <img src="https://skillicons.dev/icons?i=php" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
       <img src="icons/js.png" width="30" height="30">
@@ -79,7 +76,7 @@
     </td>
     <td align="center" valign="top" >
       <img src="assets/project_2.jpg" width="160" height="160" /><br>
-      <font size="6">EduSmart</font>
+      <h3 size="6">EduSmart</h3>
       <img src="https://skillicons.dev/icons?i=next" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=mui" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=django" width="30" height="30">
@@ -95,7 +92,7 @@
     </td>
     <td align="center" valign="top" >
       <img src="projects/attendance app/icon.webp" width="160" height="160"/><br>
-      <font size="6">Attendance App</font>
+      <h3 size="6">Attendance App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
       <img src="icons/appscript.png" width="30" height="30">
@@ -113,7 +110,7 @@
   <td align="center" valign="top" >
       <img src="projects/barcode_pos/favicon.ico" width="160" height="160" />
       <br>
-      <font size="6">Barcode POS App</font>
+      <h3 size="6">Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=electron" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=sqlite" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=js" width="30" height="30">
@@ -128,7 +125,7 @@
   <td align="center" valign="top" >
   <img src="projects/barcode_pos/favicon.ico" width="160" height="160" />
       <br>
-      <font size="6">Barcode POS App</font>
+      <h3 size="6">Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
       <img src="icons/appscript.png" width="30" height="30">
@@ -143,7 +140,7 @@
   <td align="center" valign="top" >
   <img src="assets/desktop_project.jpg" width="160" height="160" />
       <br>
-      <font size="6">Barcode POS App</font>
+      <h3 size="6">Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
       <img src="icons/appscript.png" width="30" height="30">
@@ -158,7 +155,7 @@
   </tr>
   <tr>
   <td colspan="3" align="center" valign="center" >
-    <font size="6">Explore All Projects ... </font>
+    <h3 size="6">Explore All Projects ... </h3>
     <img src="icons/circle-right-arrow.png" width="40" />
   </td>
   </tr>
