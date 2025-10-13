@@ -18,7 +18,7 @@
 | **AI / ML 🤖📈**                           | ![AI/ML](https://skillicons.dev/icons?i=sklearn)                                                           |
 | **3D & Design 🍩🎨**                       | ![Design](https://skillicons.dev/icons?i=blender,photoshop,pr)                                             |
 | **Operating System**                            | ![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows)                            |
-| **Other Tools**                                 | ![Other Tools](https://skillicons.dev/icons?i=discord,docker,git,github,netlify,postman,vercel)            |
+| **Other Tools**                                 | ![Other Tools](https://skillicons.dev/icons?i=docker,git,github,netlify,postman,vercel)            |
 
 <!--
 # 📊GitHub Stats :
