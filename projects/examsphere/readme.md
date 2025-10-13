@@ -1,5 +1,3 @@
----
-
 # 🚀 Project Name
 
 **Overview:**
@@ -35,7 +33,5 @@ Private (available upon request)
 
 * [Documentation](#)
 * [Related Article / Blog](#)
-
----
 
 *Duplicate this template for each project under its own folder/file.*
