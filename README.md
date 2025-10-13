@@ -29,8 +29,8 @@
   <a href="https://leetcode.com/yourusername" target="_blank">
     <img src="assets/leetcode.png" width="40" height="40" alt="LeetCode" />
   </a>
-  <a href="https://www.youtube.com/c/yourchannel" target="_blank">
-    <img src="assets/youtube.png" width="40" height="40" alt="YouTube" />
+  <a href="https://agni-dev.vercel.app/" target="_blank">
+    <img src="" width="40" height="40" alt="YouTube" />
   </a>
 </p>
 
