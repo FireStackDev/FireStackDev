@@ -189,7 +189,7 @@
       <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top">
       <h3>Frontend 🎨💻🖌️</h3>
       <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=css" width="40" height="40" />
@@ -200,7 +200,7 @@
       <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top">
       <h3>Backend 🖥️🔧⚙️</h3>
       <img src="https://skillicons.dev/icons?i=django" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
@@ -212,7 +212,7 @@
       <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top"valign="top">
       <h3>Database 🗄️💾📊</h3>
       <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" />
@@ -223,17 +223,17 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top">
       <h3>AI / ML 🤖📈</h3>
       <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top">
       <h3>3D & Design 🍩🎨</h3>
       <img src="https://skillicons.dev/icons?i=blender" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=pr" width="40" height="40" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top">
       <h3>Operating System</h3>
       <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" />
@@ -241,7 +241,7 @@
       <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top">
       <h3>Other Tools</h3>
       <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
