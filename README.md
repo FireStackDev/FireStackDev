@@ -10,12 +10,10 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 🔭 I’m a **Software Developer** passionate about building innovative and intuitive solutions.  
-- 💻 I specialize as a **Full Stack & Web Developer**, and also develop **Android Applications**.  
-- 🤖 I’m deeply interested in **AI, Machine Learning, and Deep Learning**, and constantly exploring **Quantum Computing** concepts.  
-- ⚡ Agile, productive, and efficient — I believe **nothing is impossible**; just read the documentation, experiment, and build projects.  
-- 🛠️ Intuitive, innovative, and a natural **problem solver**, I enjoy tackling challenges and creating practical solutions.  
-- 📅 Daily coder with hands-on experience in **3D Modeling and Graphics Designing**, merging creativity with technology.
+- 🔭 Aspiring Software Developer passionate about web, mobile, AI/ML, and Quantum Computing. Daily coder and problem solver. 
+- 💻 Full-stack & Android app development with hands-on 3D modeling and graphics design.
+- 🤖 Build web & mobile apps, AI/ML projects, and creative 3D/graphics solutions combining functionality and visual appeal. 
+- ⚡ Agile, productive, intuitive, and innovative. Believer in learning by reading docs and building projects.
 
 
 <div align="">
