@@ -29,7 +29,7 @@
   <br>
   Educational ERP Software for Dept, Faculty, Student, Paper and other managements
   <br>
-  <a href="projects/smarteducation/readme.md">
+  <a href="projects/smart_education">
    <Button>Know More</Button>
   </a>
 </td>
