@@ -105,7 +105,7 @@
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <img src="assets/desktop_project.jpg" width="160" height="160" />
+      <img src="projects/barcode_pos/favicon.ico" width="160" height="160" />
       <br>
       <h3>Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=electron" width="30" height="30">
@@ -122,7 +122,7 @@
   </tr>
   <tr>
   <td align="center" valign="top" width="200">
-  <img src="assets/desktop_project.jpg" width="160" height="160" />
+  <img src="projects/barcode_pos/favicon.ico" width="160" height="160" />
       <br>
       <h3>Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
