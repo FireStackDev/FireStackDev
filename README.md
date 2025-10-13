@@ -7,7 +7,8 @@
 - 💬 Ask me about Coding, Android App development
 - ⚡ Fun fact: I'm also a 3D Graphics Designer
 
-test 1
+
+## Explore My Projects here 
 <table>
 <tr>
  <td align="center" width="200">
@@ -23,7 +24,14 @@ test 1
 
 
 <td align="center" width="200">
-
+<img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
+  <b>EduSmart</b>
+  <br>
+  Educational ERP Software for Dept, Faculty, Student, Paper and other managements
+  <br>
+  <a href="projects/smarteducation/readme.md">
+   <Button>Know More</Button>
+  </a>
 </td>
 
 <td align="center" width="200">
