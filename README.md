@@ -142,9 +142,9 @@
   <td align="center" valign="top" >
   <img src="assets/desktop_project.jpg" width="160" height="160" />
       <br>
-      <h3 size="6">Barcode POS App</h3>
-      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
-      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
+      <h3 size="6">Simple Ecommerce App</h3>
+      <img src="https://skillicons.dev/icons?i=django" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
       <img src="icons/appscript.png" width="30" height="30">
       <img src="icons/sheets.webp" width="30" height="30">
       <div>
