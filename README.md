@@ -8,6 +8,11 @@
 - ⚡ Fun fact: I'm also a 3D Graphics Designer
 
 
+| Project 1 | Project 2 | Project 3 |
+|-----------|-----------|-----------|
+| ![Proj1](./assets/proj1.png) <br> **TaskFlow** <br> [Demo](https://demo.link) | ![Proj2](./assets/proj2.png) <br> **AI Parser** <br> [Demo](https://demo.link) | ![Proj3](./assets/proj3.png) <br> **Portfolio** <br> [Demo](https://demo.link) |
+
+
 - [Project Page](projects/examsphere/page.md)
 
 ## 🚀 Technologies I am familiar with ...
