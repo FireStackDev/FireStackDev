@@ -42,10 +42,10 @@
         ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
         please visit
       </font>
-      <br><br>
-      <img src="assets/website.png" width="40" height="40" alt="Website" />
-      <img src="https://img.shields.io/badge/Website-16a34a?style=for-the-badge&logo=https://raw.githubusercontent.com/FireStackDev/repo/main/assets/website.png&logoColor=white" />
-      <br><br>
+      <br>
+      <a href="https://agni-dev.vercel.app/">
+        <img src="https://img.shields.io/badge/Website-16a34a?style=for-the-badge&logo=https://raw.githubusercontent.com/FireStackDev/repo/main/assets/website.png&logoColor=white" />
+      </a>
       <font face="Segoe UI, Tahoma, Verdana, sans-serif" size="3">
         Most of my repositories are <b>private</b> due to privacy & other reasons.
       </font>
