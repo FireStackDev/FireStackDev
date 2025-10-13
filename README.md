@@ -37,13 +37,12 @@
 
 <table>
   <tr>
-    <td>  
-
-  ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
-  please visit my <a href="https://yourportfolio.com">Portfolio Website 🌐</a>.<br>
-  Most of my repositories are <b>private</b> due to privacy & security purposes.
-</td>
-</tr>
+    <td>
+    ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
+    please visit my <a href="https://yourportfolio.com">Portfolio Website 🌐</a>.<br>
+    Most of my repositories are <b>private</b> due to privacy & security purposes.
+    </td>
+  </tr>
 </table>
 
 ## 🚀 Explore My Projects here 
