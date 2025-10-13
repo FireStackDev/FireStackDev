@@ -165,17 +165,68 @@
   </tr>
 </table>
 
-## 🚀 Technologies I am familiar with ...
-| 💼 Category                                 | 🚀 Tools & Languages                                                                                     |         
-|---------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**                   | ![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart)                        | 
-|**Frontend 🎨💻🖌️**                         | ![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react)           |
-| **Backend 🖥️🔧⚙️**                         | ![Backend](https://skillicons.dev/icons?i=django,php,nodejs,express,nextjs,kotlin,gcp,flask,wordpress)              | 
-| **Database 🗄️💾📊**                        | ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase)              |
-| **AI / ML 🤖📈**                           | ![AI/ML](https://skillicons.dev/icons?i=sklearn)                                                           |
-| **3D & Design 🍩🎨**                       | ![Design](https://skillicons.dev/icons?i=blender,photoshop,pr)                                             |
-| **Operating System**                            | ![Other Tools](https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows)                            |
-| **Other Tools**                                 | ![Other Tools](https://skillicons.dev/icons?i=docker,git,github,netlify,postman,vercel)            |
+<table>
+  <tr>
+    <th>💼 Category</th>
+    <th>🚀 Tools & Languages</th>
+  </tr>
+
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Frontend 🎨💻🖌️</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Backend 🖥️🔧⚙️</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django,php,nodejs,express,nextjs,kotlin,gcp,flask,wordpress" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Database 🗄️💾📊</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>AI / ML 🤖📈</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=sklearn" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>3D & Design 🍩🎨</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=blender,photoshop,pr" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Operating System</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Other Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,netlify,postman,vercel" />
+    </td>
+  </tr>
+</table>
 
 <!--
 # 📊GitHub Stats :
