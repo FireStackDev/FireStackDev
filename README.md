@@ -16,27 +16,25 @@
 - ⚡ Fun fact: I'm also a 3D Graphics Designer
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill:#0A66C2"/>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40" style="fill:#181717"/>
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/leetcode.svg" alt="LeetCode" width="40" height="40" style="fill:#FFA116"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40" alt="LeetCode" />
   </a>
-  <a href="https://www.youtube.com/channel/yourchannel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/youtube.svg" alt="YouTube" width="40" height="40" style="fill:#FF0000"/>
+  <a href="https://www.youtube.com/c/yourchannel" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="40" height="40" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill:#E4405F"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
   </a>
   <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/web.svg" alt="Website" width="40" height="40" style="fill:#4CAF50"/>
+    <img src="https://skillicons.dev/icons?i=web" width="40" height="40" alt="Website" />
   </a>
 </p>
-
-
 
 <p>
   ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
