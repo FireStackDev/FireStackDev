@@ -8,21 +8,62 @@
 - ⚡ Fun fact: I'm also a 3D Graphics Designer
 
 test 1
-| Project 1 | Project 2 | Project 3 |
-|-----------|-----------|-----------|
-| ![Proj1](./assets/proj1.png) <br> **TaskFlow** <br> [Demo](https://demo.link) | ![Proj2](./assets/proj2.png) <br> **AI Parser** <br> [Demo](https://demo.link) | ![Proj3](./assets/proj3.png) <br> **Portfolio** <br> [Demo](https://demo.link) |
+# 🚀 My Projects
 
+<table>
+<tr>
+<td align="center">
+### TaskFlow
+<img src="https://www.svgrepo.com/show/393123/internet.svg" width="100" /><br>
+**A productivity dashboard**<br>
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yourdemo.link)<br>
+[![Source](https://img.shields.io/badge/Source-orange?style=for-the-badge)](projects/taskflow.md)
+</td>
 
-test 2
-[![TaskFlow](https://img.shields.io/badge/TaskFlow-blue?style=for-the-badge)](https://demo.link)
-[![AI Parser](https://img.shields.io/badge/AI-Parser-green?style=for-the-badge)](https://demo.link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://demo.link)
+<td align="center">
+### AI Resume Parser
+<img src="https://www.svgrepo.com/show/393123/internet.svg" width="100" /><br>
+**AI tool to parse resumes**<br>
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yourdemo.link)<br>
+[![Source](https://img.shields.io/badge/Source-orange?style=for-the-badge)](projects/ai-resume-parser.md)
+</td>
 
+<td align="center">
+### Portfolio Website
+<img src="https://www.svgrepo.com/show/393123/internet.svg" width="100" /><br>
+**Personal portfolio**<br>
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yourdemo.link)<br>
+[![Source](https://img.shields.io/badge/Source-orange?style=for-the-badge)](projects/portfolio.md)
+</td>
+</tr>
 
-test 3
-[![TaskFlow](./assets/taskflow_thumb.png)](https://demo.link)
-[![AI Parser](./assets/aiparser_thumb.png)](https://demo.link)
-[![Portfolio](./assets/portfolio_thumb.png)](https://demo.link)
+<tr>
+<td align="center">
+### ExamSphere
+<img src="https://www.svgrepo.com/show/393123/internet.svg" width="100" /><br>
+**Online exam platform**<br>
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yourdemo.link)<br>
+[![Source](https://img.shields.io/badge/Source-orange?style=for-the-badge)](projects/examsphere.md)
+</td>
+
+<td align="center">
+### CodeSnippets
+<img src="https://www.svgrepo.com/show/393123/internet.svg" width="100" /><br>
+**Manage & share code snippets**<br>
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yourdemo.link)<br>
+[![Source](https://img.shields.io/badge/Source-orange?style=for-the-badge)](projects/codesnippets.md)
+</td>
+
+<td align="center">
+### DevBlog
+<img src="https://www.svgrepo.com/show/393123/internet.svg" width="100" /><br>
+**Blogging platform for developers**<br>
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yourdemo.link)<br>
+[![Source](https://img.shields.io/badge/Source-orange?style=for-the-badge)](projects/devblog.md)
+</td>
+</tr>
+</table>
+
 
 
 - [Project Page](projects/examsphere/page.md)
