@@ -43,7 +43,7 @@
       </font>
       <br>
       <a href="https://agni-dev.vercel.app/">
-        <img src="https://img.shields.io/badge/My Portfolio Site-16a34a?style=for-the-badge&logo=https://raw.githubusercontent.com/FireStackDev/repo/main/assets/website.png&logoColor=white" />
+        <img src="https://img.shields.io/badge/My Portfolio Site-16a34a?style=for-the-badge&logoColor=white" />
       </a>
       <br>
       <font face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
@@ -59,23 +59,32 @@
 <table>
   <tr>
     <td align="center" valign="top" width="200">
-      <img src="assets/" width="80" /><br><br>
-      <b>ExamSphere</b><br>
+      <img src="assets/web_project.png" width="80" /><br><br>
+      <h3>ExamSphere</h3>
+      <br>
       Marksheet Management System<br><br>
       <a href="projects/examsphere/readme.md">
-        <button>Know More</button>
+        <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80" /><br><br>
-      <b>EduSmart</b><br>
+      <img src="assets/project_2.jpg" width="80" /><br><br>
+      <h3>EduSmart</h3>
+      <br>
       Educational ERP Software for Dept, Faculty, Student, Paper and other managements<br><br>
       <a href="projects/smart_education">
-        <button>Know More</button>
+        <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <!-- Empty slot, can add another project here -->
+      <img src="assets/project_2.jpg" width="80" /><br><br>
+      <h3>Attendance App</h3>
+      <br>
+      Educational ERP Software for Dept, Faculty, Student, Paper and other managements
+      <br><br>
+      <a href="projects/smart_education">
+      <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
