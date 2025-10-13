@@ -178,7 +178,7 @@
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top">
       <h3>Programming Languages</h3>
       <img src="https://skillicons.dev/icons?i=java" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
