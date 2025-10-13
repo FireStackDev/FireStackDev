@@ -59,35 +59,32 @@
 <table>
   <tr>
     <td align="center" valign="top" width="200">
-      <img src="assets/web_project.png" width="160" /><br><br>
+      <img src="assets/web_project.png" width="160" /><br>
       <h3>ExamSphere</h3>
-      <br>
-      Marksheet Management System<br><br>
+      Marksheet Management System<br>
       <a href="projects/examsphere/readme.md">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <img src="assets/project_2.jpg" width="160" /><br><br>
+      <img src="assets/project_2.jpg" width="160" /><br>
       <h3>EduSmart</h3>
-      <br>
-      Educational ERP Software for Dept, Faculty, Student, Paper and other managements<br><br>
+      Educational ERP Software for Dept, Faculty, Student, Paper and other managements<br>
       <a href="projects/smart_education">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <img src="assets/android_project_2.jpg" width="160" /><br><br>
+      <img src="assets/android_project_2.jpg" width="160" /><br>
       <h3>Attendance App</h3>
-      <br>
-      Android Mobile App for Attendance Management System with Photo Capture & Geofencing
-      <br><br>
+      Android Mobile App for Attendance Management System with Photo Capture & Geofencing<br>
       <a href="projects/smart_education">
-      <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
