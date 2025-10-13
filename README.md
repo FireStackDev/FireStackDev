@@ -41,7 +41,7 @@
     ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
     please visit 
       <br>
-      <img src="https://img.shields.io/badge/-Android%20App%20Dev-16a34a?style=for-the-badge&logo=android&logoColor=white" alt="Android App Dev" />
+      <img src="https://img.shields.io/badge/-Android%20App%20Dev-16a34a?style=for-the-badge&logo=assets/website.png&logoColor=white" alt="Android App Dev" />
       <br>
       Most of my repositories are <b>private</b> due to privacy & other reasons.
     </td>
