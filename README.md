@@ -31,7 +31,7 @@
     <img src="assets/leetcode.png" width="40" height="40" alt="LeetCode" />
   </a>
   <a href="https://agni-dev.vercel.app/" target="_blank">
-    <img src="" width="40" height="40" alt="YouTube" />
+    <img src="assets/website.jpg" width="40" height="40" alt="YouTube" />
   </a>
 </p>
 
