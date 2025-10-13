@@ -1,4 +1,4 @@
-<h1 align="center">Hello There !</h1>
+<h1 align="center">Hello There ! ... Welcome to my Profile ... </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Android%20App%20Dev-16a34a?style=for-the-badge&logo=android&logoColor=white" alt="Android App Dev" />
@@ -10,12 +10,18 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 🔭 I’m aspiring Software Developer
-- 🌱 I’m currently learning MERN, System Design & ML
-- 💬 Ask me about Coding, Android App development
-- ⚡ Fun fact: I'm also a 3D Graphics Designer
+- 🔭 I’m a **Software Developer** passionate about building innovative and intuitive solutions.  
+- 💻 I specialize as a **Full Stack & Web Developer**, and also develop **Android Applications**.  
+- 🤖 I’m deeply interested in **AI, Machine Learning, and Deep Learning**, and constantly exploring **Quantum Computing** concepts.  
+- ⚡ Agile, productive, and efficient — I believe **nothing is impossible**; just read the documentation, experiment, and build projects.  
+- 🛠️ Intuitive, innovative, and a natural **problem solver**, I enjoy tackling challenges and creating practical solutions.  
+- 📅 Daily coder with hands-on experience in **3D Modeling and Graphics Designing**, merging creativity with technology.
 
-<p align="center">
+
+<div align="">
+<b>Find me at ... </b>
+</div>
+<p align="">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
@@ -26,13 +32,7 @@
     <img src="assets/leetcode.png" width="40" height="40" alt="LeetCode" />
   </a>
   <a href="https://www.youtube.com/c/yourchannel" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="40" height="40" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" width="40" height="40" alt="Website" />
+    <img src="assets/youtube.png" width="40" height="40" alt="YouTube" />
   </a>
 </p>
 
@@ -103,10 +103,10 @@
 
 ## 🚀 My Projects
 
-| 💼 Projects                  | Desc                            | 🚀 Tools & Languages             |
+<!-- | 💼 Projects                  | Desc                            | 🚀 Tools & Languages             |
 |------------------------------|------------------------------------|--------------------------------|
 | **Employee Attendance App** (March, 2025) | Lightweight App for Employee Attendance Collection with Geofencing & Employee Image collection | ![Languages](https://skillicons.dev/icons?i=kotlin,js,gcp)|
 | **ExamSphere** (2024) | Marksheet management System with 3 Portals for Teacher, Student & Admin. Student (Registration, Enrolment, Marksheet Download & Print), Teacher (Marks upload), Admin(Create Exam, Lock Marks Upload, Paper Ditribution, Markheet Release & all over control)  | ![Languages](https://skillicons.dev/icons?i=php,mysql,html) ![Languages](https://skillicons.dev/icons?i=css,js) |
 
 
-
+ -->
