@@ -54,12 +54,14 @@
 </table>
 
 
+<h2 align="center">
+🚀 Explore My Projects here 
+</h2>
 
-## 🚀 Explore My Projects here 
 <table width="100%" align="center" >
   <tr width="100%">
     <td align="center" valign="top" width="400" >
-      <img src="projects/examsphere/logo.png" width="120" height="120" />
+      <img src="projects/examsphere/logo.png" width="100" height="100" />
       <h3 >ExamSphere</h3>
       <img src="https://skillicons.dev/icons?i=php" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
@@ -74,7 +76,7 @@
       </a>
     </td>
     <td align="center" valign="top">
-          <img src="assets/project_2.jpg" width="120" height="120" /><br>
+          <img src="assets/project_2.jpg" width="100" height="100" /><br>
           <h3 size="6">EduSmart</h3>
           <img src="https://skillicons.dev/icons?i=next" width="30" height="30">
           <img src="https://skillicons.dev/icons?i=mui" width="30" height="30">
@@ -90,7 +92,7 @@
       </a>
     </td>
     <td align="center" valign="top" width="400" >
-      <img src="projects/attendance app/icon.jpg" width="120" height="120"/><br>
+      <img src="projects/attendance app/icon.jpg" width="100" height="100"/><br>
       <h3 size="6"> 
       Attendance App
       </h3>
@@ -111,7 +113,7 @@
   </tr>
   <tr>
   <td align="center" valign="top" width="400" >
-      <img src="projects/barcode_pos/favicon.ico" width="120" height="120" />
+      <img src="projects/barcode_pos/favicon.ico" width="100" height="100" />
       <br>
       <h3 size="6">Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=windows" width="30" height="30">
@@ -128,7 +130,7 @@
       </a>
     </td>
   <td align="center" valign="top" width="400" >
-  <img src="assets/android_project_4.png" width="120" height="120" />
+  <img src="assets/android_project_4.png" width="100" height="100" />
       <br>
       <h3 size="6">Sticky Note App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
@@ -144,7 +146,7 @@
       </a>
   </td>
   <td align="center" valign="top" width="400" >
-  <img src="assets/web_project.png" width="120" height="120" />
+  <img src="assets/web_project.png" width="100" height="100" />
       <br>
       <h3 size="6">Simple Ecommerce App</h3>
       <img src="https://skillicons.dev/icons?i=django" width="30" height="30">
@@ -170,6 +172,9 @@
   </tr>
 </table>
 
+<h2 align="center">
+  Tools I am Familiar with ...
+</h2>
 <table width="100%" align="center">
   <tr>
     <th>💼 Category</th>
@@ -232,6 +237,88 @@
     </td>
   </tr>
 </table>
+
+
+<h2 align="center">Tools I am Familiar with ...</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="25%">
+      <b>Programming Languages</b><br>
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>Frontend 🎨💻🖌️</b><br>
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=jquery" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>Backend 🖥️🔧⚙️</b><br>
+      <img src="https://skillicons.dev/icons?i=django" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>Database 🗄️💾📊</b><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <b>AI / ML 🤖📈</b><br>
+      <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>3D & Design 🍩🎨</b><br>
+      <img src="https://skillicons.dev/icons?i=blender" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=pr" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>Operating System</b><br>
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=debian" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" />
+    </td>
+    <td align="center" width="25%">
+      <b>Other Tools</b><br>
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=netlify" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" />
+    </td>
+  </tr>
+</table>
+
+
 
 <!--
 # 📊GitHub Stats :
