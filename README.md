@@ -7,7 +7,7 @@
 </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 🔭 Aspiring Software Developer passionate about web, mobile, AI/ML, and Quantum Computing. Daily coder and problem solver. 
