@@ -38,20 +38,21 @@
 <table align="center">
   <tr>
     <td align="center">
-      <p style="font-size:100px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+      <font face="Segoe UI, Tahoma, Verdana, sans-serif" size="4">
         ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
         please visit
-      </p>
-      <br>
+      </font>
+      <br><br>
       <img src="assets/website.png" width="40" height="40" alt="Website" />
       <img src="https://img.shields.io/badge/Website-16a34a?style=for-the-badge&logo=https://raw.githubusercontent.com/FireStackDev/repo/main/assets/website.png&logoColor=white" />
-      <br>
-      <p style="font-size:16px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+      <br><br>
+      <font face="Segoe UI, Tahoma, Verdana, sans-serif" size="3">
         Most of my repositories are <b>private</b> due to privacy & other reasons.
-      </p>
+      </font>
     </td>
   </tr>
 </table>
+
 
 
 ## 🚀 Explore My Projects here 
