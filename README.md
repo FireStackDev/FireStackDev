@@ -14,6 +14,8 @@ test 1
   <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
   <b>ExamSphere</b> 
   <br>
+  Marksheet management System with 3 Portals for Teacher, Student & Admin. Student (Registration, Enrolment, Marksheet Download & Print), Teacher (Marks upload), Admin(Create Exam, Lock Marks Upload, Paper Ditribution, Markheet Release & all over control)
+  <br>
   <a href="projects/examsphere/readme.md">
    <Button>Know More</Button>
   </a>
