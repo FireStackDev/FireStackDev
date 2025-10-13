@@ -43,7 +43,7 @@
       </font>
       <br>
       <a href="https://agni-dev.vercel.app/">
-        <img src="https://img.shields.io/badge/Website-16a34a?style=for-the-badge&logo=https://raw.githubusercontent.com/FireStackDev/repo/main/assets/website.png&logoColor=white" />
+        <img src="https://img.shields.io/badge/My Portfolio Site-16a34a?style=for-the-badge&logo=https://raw.githubusercontent.com/FireStackDev/repo/main/assets/website.png&logoColor=white" />
       </a>
       <br>
       <font face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
