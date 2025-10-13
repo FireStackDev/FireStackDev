@@ -15,6 +15,10 @@
 - 🤖 Build web & mobile apps, AI/ML projects, and creative 3D/graphics solutions combining functionality and visual appeal. 
 - ⚡ Agile, productive, intuitive, and innovative. Believer in learning by reading docs and building projects.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=🚀%20Technologies%20I%20am%20familiar%20with&fontSize=24&fontColor=ffffff" />
+</p>
+
 
 <div align="">
 <b>Find me at ... </b>
