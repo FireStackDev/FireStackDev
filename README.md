@@ -15,6 +15,28 @@
 - 💬 Ask me about Coding, Android App development
 - ⚡ Fun fact: I'm also a 3D Graphics Designer
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/channel/yourchannel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/youtube.svg" alt="YouTube" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/web.svg" alt="Website" width="40" height="40"/>
+  </a>
+</p>
+
+
 <p>
   ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
   please visit my <a href="https://yourportfolio.com">Portfolio Website 🌐</a>.<br>
