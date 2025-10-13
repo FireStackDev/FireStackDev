@@ -59,7 +59,7 @@
 <table width="100%" align="center" >
   <tr width="100%">
     <td align="center" valign="top" >
-      <img src="projects/examsphere/logo.png" width="160" height="160" />
+      <img src="projects/examsphere/logo.png" width="120" height="120" />
       <h3 >ExamSphere</h3>
       <img src="https://skillicons.dev/icons?i=php" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
@@ -74,7 +74,7 @@
       </a>
     </td>
     <td align="center" valign="top">
-          <img src="assets/project_2.jpg" width="160" height="160" /><br>
+          <img src="assets/project_2.jpg" width="120" height="120" /><br>
           <h3 size="6">EduSmart</h3>
           <img src="https://skillicons.dev/icons?i=next" width="30" height="30">
           <img src="https://skillicons.dev/icons?i=mui" width="30" height="30">
@@ -90,8 +90,11 @@
       </a>
     </td>
     <td align="center" valign="top" >
-      <img src="projects/attendance app/icon.webp" width="160" height="160"/><br>
-      <h3 size="6">Attendance App</h3>
+      <img src="projects/attendance app/icon.webp" width="120" height="120"/><br>
+      <h3 size="6"> 
+      Attendance App
+      </h3>
+      <img src="icons/android.png" height="30"> 
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
       <img src="icons/appscript.png" width="30" height="30">
@@ -108,15 +111,16 @@
   </tr>
   <tr>
   <td align="center" valign="top" >
-      <img src="projects/barcode_pos/favicon.ico" width="160" height="160" />
+      <img src="projects/barcode_pos/favicon.ico" width="120" height="120" />
       <br>
       <h3 size="6">Barcode POS App</h3>
+      <img src="https://skillicons.dev/icons?i=windows" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=electron" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=sqlite" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=js" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=html" width="30" height="30">
       <div>
-      Android Mobile App for Attendance Management System with Photo Capture & Geofencing
+      Offline Desktop Software for Point of Sale calculation, with Barcode Scanning & Generation, Invoice, Password Protection & Data Import Export Features.
       </div>
       <br>
       <a href="projects/smart_education">
@@ -124,9 +128,9 @@
       </a>
     </td>
   <td align="center" valign="top" >
-  <img src="projects/barcode_pos/favicon.ico" width="160" height="160" />
+  <img src="projects/barcode_pos/favicon.ico" width="120" height="120" />
       <br>
-      <h3 size="6">Barcode POS App</h3>
+      <h3 size="6">Sticky Note App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
       <img src="icons/appscript.png" width="30" height="30">
@@ -140,13 +144,13 @@
       </a>
   </td>
   <td align="center" valign="top" >
-  <img src="assets/desktop_project.jpg" width="160" height="160" />
+  <img src="assets/desktop_project.jpg" width="120" height="120" />
       <br>
       <h3 size="6">Simple Ecommerce App</h3>
       <img src="https://skillicons.dev/icons?i=django" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
-      <img src="icons/appscript.png" width="30" height="30">
-      <img src="icons/sheets.webp" width="30" height="30">
+      <img src="icons/jquery.png" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="30" height="30">
       <div>
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
       </div>
