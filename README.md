@@ -35,6 +35,8 @@
   </a>
 </p>
 
+<p align="center">
+  
 <table>
   <tr>
     <td>
@@ -44,6 +46,7 @@
     </td>
   </tr>
 </table>
+</p>
 
 ## 🚀 Explore My Projects here 
 <table>
