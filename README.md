@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I'm also a 3D Graphics Designer
 
 test 1
+![Software Developer](https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <table>
 <tr>
 <td align="center" width="200">
