@@ -185,19 +185,46 @@
   <tr>
     <td align="center" width="25%">
       <b>Programming Languages</b><br>
-      <img src="https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,php,bash,dart" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" />
     </td>
     <td align="center" width="25%">
       <b>Frontend 🎨💻🖌️</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,flutter,react" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=jquery" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
     </td>
     <td align="center" width="25%">
       <b>Backend 🖥️🔧⚙️</b><br>
-      <img src="https://skillicons.dev/icons?i=django,php,nodejs,express,nextjs,kotlin,gcp,flask,wordpress" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=django" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" />
     </td>
     <td align="center" width="25%">
       <b>Database 🗄️💾📊</b><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" />
     </td>
   </tr>
 
@@ -208,18 +235,30 @@
     </td>
     <td align="center" width="25%">
       <b>3D & Design 🍩🎨</b><br>
-      <img src="https://skillicons.dev/icons?i=blender,photoshop,pr" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=blender" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=pr" width="40" height="40" />
     </td>
     <td align="center" width="25%">
       <b>Operating System</b><br>
-      <img src="https://skillicons.dev/icons?i=ubuntu,kali,debian,linux,windows" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=debian" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" />
     </td>
     <td align="center" width="25%">
       <b>Other Tools</b><br>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,netlify,postman,vercel" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=netlify" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" />
     </td>
   </tr>
 </table>
+
 
 <!--
 # 📊GitHub Stats :
