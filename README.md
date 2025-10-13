@@ -14,8 +14,7 @@ test 1
 <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
 ### TaskFlow 
 **A productivity dashboard**
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://yourdemo.link)
-[![Source](https://img.shields.io/badge/Source-orange?style=for-the-badge&logo=github)](projects/taskflow.md)
+![Software Developer](https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 </td>
 
 <td align="center" width="200">
