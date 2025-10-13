@@ -62,7 +62,8 @@
   <tr width="100%">
     <td align="center" valign="top" width="200">
       <img src="projects/examsphere/logo.png" width="160" height="160" />
-      <h3>ExamSphere</h3>
+      <font size="4">ExamSphere</font>
+      <br>
       <img src="https://skillicons.dev/icons?i=php" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
       <img src="icons/js.png" width="30" height="30">
