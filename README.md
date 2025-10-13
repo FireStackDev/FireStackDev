@@ -1,7 +1,9 @@
 <h1 align="center">Hello There !</h1>
 
-<p align="center">  
-![Software Developer](https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Software Developer](https://img.shields.io/badge/-Full%20Stack%20Software%20Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Software Developer](https://img.shields.io/badge/-3D%20Graphics%20Designer-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+<p align="center">
+
+  ![Software Developer](https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Software Developer](https://img.shields.io/badge/-Full%20Stack%20Software%20Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Software Developer](https://img.shields.io/badge/-3D%20Graphics%20Designer-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+
 </p>
 
 - 🔭 I’m aspiring Software Developer
