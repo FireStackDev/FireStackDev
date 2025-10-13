@@ -21,13 +21,13 @@
 </div>
 <br>
 <p align="">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/agneee/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/FireStackDev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/yourusername" target="_blank">
+  <a href="https://leetcode.com/u/fire_stack_dev/" target="_blank">
     <img src="assets/leetcode.png" width="40" height="40" alt="LeetCode" />
   </a>
   <a href="https://agni-dev.vercel.app/" target="_blank">
