@@ -80,7 +80,7 @@
       <img src="assets/project_2.jpg" width="80" /><br><br>
       <h3>Attendance App</h3>
       <br>
-      Educational ERP Software for Dept, Faculty, Student, Paper and other managements
+      Android Mobile App for Attendance Management System with Photo Capture & Geofencing
       <br><br>
       <a href="projects/smart_education">
       <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
