@@ -63,10 +63,10 @@
     <td align="center" valign="top" width="200">
       <img src="assets/web_project.png" width="160" /><br>
       <h3>ExamSphere</h3>
-      <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
-      <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
-      <img src="icons/appscript.png" width="30" height="30">
-      <img src="icons/sheets.webp" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=php" width="30" height="30">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
+      <img src="icons/js.png" width="30" height="30">
+      <img src="icons/jquery.png" width="30" height="30">
       Marksheet Management System
       <br>
       <br>
