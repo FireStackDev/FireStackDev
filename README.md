@@ -39,7 +39,8 @@
   <tr>
     <td>
     ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
-    please visit my <a href="https://yourportfolio.com">Portfolio Website 🌐</a>.<br>
+    please visit 
+        <img src="https://img.shields.io/badge/-Android%20App%20Dev-16a34a?style=for-the-badge&logo=android&logoColor=white" alt="Android App Dev" />
     Most of my repositories are <b>private</b> due to privacy & other reasons.
     </td>
   </tr>
