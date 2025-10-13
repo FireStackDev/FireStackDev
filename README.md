@@ -39,8 +39,8 @@
 
 ## 🚀 My Projects
 
-| 💼 Projects                  | Desc                            | 🚀 Tools & Languages                                                                                      |
-|----------------------------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 💼 Projects                  | Desc                            | 🚀 Tools & Languages             |
+|------------------------------|------------------------------------|--------------------------------|
 | **Employee Attendance App** (March, 2025) | Lightweight App for Employee Attendance Collection with Geofencing & Employee Image collection | ![Languages](https://skillicons.dev/icons?i=kotlin,js,gcp)|
 | **ExamSphere** (2024) | Marksheet management System with 3 Portals for Teacher, Student & Admin. Student (Registration, Enrolment, Marksheet Download & Print), Teacher (Marks upload), Admin(Create Exam, Lock Marks Upload, Paper Ditribution, Markheet Release & all over control)  | ![Languages](https://skillicons.dev/icons?i=php,mysql,html) ![Languages](https://skillicons.dev/icons?i=css,js) |
 
