@@ -77,7 +77,7 @@
       </a>
     </td>
     <td align="center" valign="top" width="200">
-      <img src="assets/project_2.jpg" width="160" /><br><br>
+      <img src="assets/android_project_2.jpg" width="160" /><br><br>
       <h3>Attendance App</h3>
       <br>
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
