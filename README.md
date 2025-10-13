@@ -61,7 +61,7 @@
 <table width="100%" align="center" >
   <tr width="100%">
     <td align="center" valign="top" width="400" >
-      <img src="projects/examsphere/logo.png" width="120" height="120" />
+      <img src="projects/examsphere/logo.png" width="100" height="100" />
       <h3 >ExamSphere</h3>
       <img src="https://skillicons.dev/icons?i=php" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
@@ -76,7 +76,7 @@
       </a>
     </td>
     <td align="center" valign="top">
-          <img src="assets/project_2.jpg" width="120" height="120" /><br>
+          <img src="assets/project_2.jpg" width="100" height="100" /><br>
           <h3 size="6">EduSmart</h3>
           <img src="https://skillicons.dev/icons?i=next" width="30" height="30">
           <img src="https://skillicons.dev/icons?i=mui" width="30" height="30">
@@ -92,7 +92,7 @@
       </a>
     </td>
     <td align="center" valign="top" width="400" >
-      <img src="projects/attendance app/icon.jpg" width="120" height="120"/><br>
+      <img src="projects/attendance app/icon.jpg" width="100" height="100"/><br>
       <h3 size="6"> 
       Attendance App
       </h3>
@@ -113,7 +113,7 @@
   </tr>
   <tr>
   <td align="center" valign="top" width="400" >
-      <img src="projects/barcode_pos/favicon.ico" width="120" height="120" />
+      <img src="projects/barcode_pos/favicon.ico" width="100" height="100" />
       <br>
       <h3 size="6">Barcode POS App</h3>
       <img src="https://skillicons.dev/icons?i=windows" width="30" height="30">
@@ -130,7 +130,7 @@
       </a>
     </td>
   <td align="center" valign="top" width="400" >
-  <img src="assets/android_project_4.png" width="120" height="120" />
+  <img src="assets/android_project_4.png" width="100" height="100" />
       <br>
       <h3 size="6">Sticky Note App</h3>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
@@ -146,7 +146,7 @@
       </a>
   </td>
   <td align="center" valign="top" width="400" >
-  <img src="assets/web_project.png" width="120" height="120" />
+  <img src="assets/web_project.png" width="100" height="100" />
       <br>
       <h3 size="6">Simple Ecommerce App</h3>
       <img src="https://skillicons.dev/icons?i=django" width="30" height="30">
