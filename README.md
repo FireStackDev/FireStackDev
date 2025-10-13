@@ -12,7 +12,8 @@ test 1
 <tr>
  <td align="center" width="200">
   <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
-  <b>ExamSphere</b>
+  <b>ExamSphere</b> 
+  <br>
   <a href="projects/examsphere/page.md">
    <Button>Know More</Button>
   </a>
