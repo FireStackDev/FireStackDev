@@ -40,13 +40,11 @@
     <td align="center">
       <h3 face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
         ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews — please visit
-      </h3> <br>
-      <br>
+      </h3>
       <br>
       <a href="https://agni-dev.vercel.app/">
         <img src="https://img.shields.io/badge/My Portfolio Site-16a34a?style=for-the-badge&logoColor=white" />
       </a>
-      <br>
       <br>
       <h3 face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
         ⚠️ Most of my repositories are <b>private</b> due to privacy & other reasons.
