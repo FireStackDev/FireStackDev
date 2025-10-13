@@ -63,11 +63,11 @@
     <td align="center" valign="top" >
       <img src="projects/examsphere/logo.png" width="160" height="160" />
       <h3 >ExamSphere</h3>
-      <br>
       <img src="https://skillicons.dev/icons?i=php" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
       <img src="icons/js.png" width="30" height="30">
       <img src="icons/jquery.png" width="30" height="30">
+      <br>
       Marksheet Management System with dedicated Portals for teacher, student & controller with smart automation algo
       <br>
       <br>
@@ -78,7 +78,6 @@
     <td align="center" valign="top" >
       <img src="assets/project_2.jpg" width="160" height="160" /><br>
       <h3 size="6">EduSmart</h3>
-      <br>
       <img src="https://skillicons.dev/icons?i=next" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=mui" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=django" width="30" height="30">
@@ -95,14 +94,13 @@
     <td align="center" valign="top" >
       <img src="projects/attendance app/icon.webp" width="160" height="160"/><br>
       <h3 size="6">Attendance App</h3>
-      <br>
       <img src="https://skillicons.dev/icons?i=kotlin" width="30" height="30">
       <img src="https://skillicons.dev/icons?i=gcp" width="30" height="30">
       <img src="icons/appscript.png" width="30" height="30">
       <img src="icons/sheets.webp" width="30" height="30">
+      <div>
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
-      <br>
-      <br>
+      </div>
       <a href="projects/smart_education">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
