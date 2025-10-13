@@ -61,7 +61,9 @@
     <td align="center" valign="top" width="200">
       <img src="assets/web_project.png" width="160" /><br>
       <h3>ExamSphere</h3>
-      Marksheet Management System<br>
+      Marksheet Management System
+      <br>
+      <br>
       <a href="projects/examsphere/readme.md">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
@@ -69,7 +71,9 @@
     <td align="center" valign="top" width="200">
       <img src="assets/project_2.jpg" width="160" /><br>
       <h3>EduSmart</h3>
-      Educational ERP Software for Dept, Faculty, Student, Paper and other managements<br>
+      Educational ERP Software for Dept, Faculty, Student, Paper and other managements
+      <br>
+      <br>
       <a href="projects/smart_education">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
@@ -77,7 +81,9 @@
     <td align="center" valign="top" width="200">
       <img src="assets/android_project_2.jpg" width="160" /><br>
       <h3>Attendance App</h3>
-      Android Mobile App for Attendance Management System with Photo Capture & Geofencing<br>
+      Android Mobile App for Attendance Management System with Photo Capture & Geofencing
+      <br>
+      <br>
       <a href="projects/smart_education">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
