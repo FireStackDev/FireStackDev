@@ -60,7 +60,7 @@
 ## 🚀 Explore My Projects here 
 <table width="100%" align="center" >
   <tr width="100%">
-    <td align="center" valign="top" width="200">
+    <td align="center" valign="top">
       <img src="projects/examsphere/logo.png" width="160" height="160" />
       <h3>ExamSphere</h3>
       <img src="https://skillicons.dev/icons?i=php" width="30" height="30">
