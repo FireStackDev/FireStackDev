@@ -38,17 +38,21 @@
 <table align="center">
   <tr>
     <td align="center">
-    ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
-    please visit 
+      <p style="font-size:18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+        ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
+        please visit
+      </p>
       <br>
-          <img src="assets/website.png" width="40" height="40" alt="YouTube" />
-
-<img src="https://img.shields.io/badge/Website-16a34a?style=for-the-badge&logo=https://raw.githubusercontent.com/FireStackDev/repo/main/assets/website.png&logoColor=white" />
+      <img src="assets/website.png" width="40" height="40" alt="Website" />
+      <img src="https://img.shields.io/badge/Website-16a34a?style=for-the-badge&logo=https://raw.githubusercontent.com/FireStackDev/repo/main/assets/website.png&logoColor=white" />
       <br>
-      Most of my repositories are <b>private</b> due to privacy & other reasons.
+      <p style="font-size:16px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+        Most of my repositories are <b>private</b> due to privacy & other reasons.
+      </p>
     </td>
   </tr>
 </table>
+
 
 ## 🚀 Explore My Projects here 
 <table>
