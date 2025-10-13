@@ -8,14 +8,11 @@
 - ⚡ Fun fact: I'm also a 3D Graphics Designer
 
 test 1
-![Software Developer](https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <table>
 <tr>
-<td align="center" width="200">
-<img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
-### TaskFlow 
-**A productivity dashboard**
-![Software Developer](https://img.shields.io/badge/-Android%20App%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ <td align="center" width="200">
+ <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
+ ExamSphere App
 </td>
 
 <td align="center" width="200">
