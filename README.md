@@ -35,47 +35,51 @@
   </a>
 </p>
 
-<table>
+<table align="center">
   <tr>
-    <td>  
-
-  ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews —<br>
-  please visit my <a href="https://yourportfolio.com">Portfolio Website 🌐</a>.<br>
-  Most of my repositories are <b>private</b> due to privacy & security purposes.
-</td>
-</tr>
+    <td align="center">
+      <font face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
+        ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews — please visit
+      </font>
+      <br>
+      <a href="https://agni-dev.vercel.app/">
+        <img src="https://img.shields.io/badge/My Portfolio Site-16a34a?style=for-the-badge&logo=https://raw.githubusercontent.com/FireStackDev/repo/main/assets/website.png&logoColor=white" />
+      </a>
+      <br>
+      <font face="Segoe UI, Tahoma, Verdana, sans-serif" size="6">
+        ⚠️ Most of my repositories are <b>private</b> due to privacy & other reasons.
+      </font>
+    </td>
+  </tr>
 </table>
+
+
 
 ## 🚀 Explore My Projects here 
 <table>
-<tr>
- <td align="center" width="200">
-  <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
-  <b>ExamSphere</b> 
-  <br>
-  Marksheet management System with 3 Portals for Teacher, Student & Admin. Student (Registration, Enrolment, Marksheet Download & Print), Teacher (Marks upload), Admin(Create Exam, Lock Marks Upload, Paper Ditribution, Markheet Release & all over control)
-  <br>
-  <a href="projects/examsphere/readme.md">
-   <Button>Know More</Button>
-  </a>
-</td>
-
-
-<td align="center" width="200">
-<img src="https://www.svgrepo.com/show/393123/internet.svg" width="80"/><br>
-  <b>EduSmart</b>
-  <br>
-  Educational ERP Software for Dept, Faculty, Student, Paper and other managements
-  <br>
-  <a href="projects/smart_education">
-   <Button>Know More</Button>
-  </a>
-</td>
-
-<td align="center" width="200">
-</td>
-</tr>
+  <tr>
+    <td align="center" valign="top" width="200">
+      <img src="assets/" width="80" /><br><br>
+      <b>ExamSphere</b><br>
+      Marksheet Management System<br><br>
+      <a href="projects/examsphere/readme.md">
+        <button>Know More</button>
+      </a>
+    </td>
+    <td align="center" valign="top" width="200">
+      <img src="https://www.svgrepo.com/show/393123/internet.svg" width="80" /><br><br>
+      <b>EduSmart</b><br>
+      Educational ERP Software for Dept, Faculty, Student, Paper and other managements<br><br>
+      <a href="projects/smart_education">
+        <button>Know More</button>
+      </a>
+    </td>
+    <td align="center" valign="top" width="200">
+      <!-- Empty slot, can add another project here -->
+    </td>
+  </tr>
 </table>
+
 
 
 ## 🚀 Technologies I am familiar with ...
@@ -104,13 +108,3 @@
 </tr>
 </table>
 -->
-
-<!-- ## 🚀 My Projects
-
- | 💼 Projects                  | Desc                            | 🚀 Tools & Languages             |
-|------------------------------|------------------------------------|--------------------------------|
-| **Employee Attendance App** (March, 2025) | Lightweight App for Employee Attendance Collection with Geofencing & Employee Image collection | ![Languages](https://skillicons.dev/icons?i=kotlin,js,gcp)|
-| **ExamSphere** (2024) | Marksheet management System with 3 Portals for Teacher, Student & Admin. Student (Registration, Enrolment, Marksheet Download & Print), Teacher (Marks upload), Admin(Create Exam, Lock Marks Upload, Paper Ditribution, Markheet Release & all over control)  | ![Languages](https://skillicons.dev/icons?i=php,mysql,html) ![Languages](https://skillicons.dev/icons?i=css,js) |
-
-
- -->
