@@ -54,8 +54,10 @@
 </table>
 
 
+<h2 align="center">
+🚀 Explore My Projects here 
+</h2>
 
-## 🚀 Explore My Projects here 
 <table width="100%" align="center" >
   <tr width="100%">
     <td align="center" valign="top" width="400" >
