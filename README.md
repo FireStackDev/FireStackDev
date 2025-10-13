@@ -257,65 +257,93 @@
 
 <table width="100%" align="center" cellspacing="10">
   <tr>
-    <!-- Big card spanning 2 rows -->
-    <td align="center" valign="top" rowspan="2" width="30%" style="border:1px solid #ccc; padding:10px;">
-      <h3>Programming Languages</h3>
+    <!-- Big box: Programming Languages -->
+    <td align="center" valign="top" rowspan="2" width="35%" style="border:1px solid #ccc; padding:10px;">
+      <h3>Languages</h3>
       <img src="https://skillicons.dev/icons?i=java" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=c" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" />
     </td>
-    <!-- Small cards -->
-    <td align="center" valign="top" width="35%" style="border:1px solid #ccc; padding:10px;">
+    <!-- Small box: AI / ML -->
+    <td align="center" valign="top" width="25%" style="border:1px solid #ccc; padding:10px;">
+      <h3>AI / ML</h3>
+      <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" />
+    </td>
+    <!-- Medium box: Frontend -->
+    <td align="center" valign="top" width="40%" style="border:1px solid #ccc; padding:10px;">
       <h3>Frontend 🎨💻🖌️</h3>
       <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=css" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=jquery" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
     </td>
-    <td align="center" valign="top" width="35%" style="border:1px solid #ccc; padding:10px;">
-      <h3>Backend 🖥️🔧⚙️</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" />
-      <img src="https://skillicons.dev/icons?i=django" width="40" height="40" />
-      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" />
-    </td>
   </tr>
 
   <tr>
+    <!-- Small box: 3D & Design -->
     <td align="center" valign="top" style="border:1px solid #ccc; padding:10px;">
-      <h3>Database 🗄️💾📊</h3>
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" />
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" />
-    </td>
-    <td align="center" valign="top" style="border:1px solid #ccc; padding:10px;">
-      <h3>AI / ML 🤖📈</h3>
-      <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="top" style="border:1px solid #ccc; padding:10px;">
-      <h3>3D & Design 🍩🎨</h3>
+      <h3>3D & Design</h3>
       <img src="https://skillicons.dev/icons?i=blender" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=pr" width="40" height="40" />
     </td>
-    <td align="center" valign="top" colspan="2" style="border:1px solid #ccc; padding:10px;">
-      <h3>Operating System & Tools</h3>
+    <!-- Medium box: Backend -->
+    <td align="center" valign="top" style="border:1px solid #ccc; padding:10px;">
+      <h3>Backend 🖥️🔧⚙️</h3>
+      <img src="https://skillicons.dev/icons?i=django" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" />
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Small box: Databases -->
+    <td align="center" valign="top" width="25%" style="border:1px solid #ccc; padding:10px;">
+      <h3>Database 🗄️💾📊</h3>
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" />
+    </td>
+    <!-- Medium box: Operating Systems -->
+    <td align="center" valign="top" width="35%" style="border:1px solid #ccc; padding:10px;">
+      <h3>Operating Systems</h3>
       <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=debian" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" />
+    </td>
+    <!-- Big box: Other Tools -->
+    <td align="center" valign="top" width="40%" style="border:1px solid #ccc; padding:10px;">
+      <h3>Other Tools</h3>
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=netlify" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" />
     </td>
   </tr>
 </table>
+
 
 
 
