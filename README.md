@@ -74,8 +74,7 @@
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
-    <td align="center" valign="top" href="projects/smart_education">
-      <a >
+    <td align="center" valign="top">
         <img src="assets/project_2.jpg" width="160" height="160" /><br>
         <h3 size="6">EduSmart</h3>
         <img src="https://skillicons.dev/icons?i=next" width="30" height="30">
@@ -86,8 +85,12 @@
         <div>
         Educational ERP Software for Dept, Faculty, Student, Paper and other managements
         </div>
-        <!-- <br> -->
-        <!-- <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" /> -->
+        <br>
+      <a href="projects/smart_education">
+        <div>
+          hello world
+        </div>
+        <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
     <td align="center" valign="top" >
