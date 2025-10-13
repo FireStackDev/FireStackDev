@@ -59,7 +59,7 @@
 
 ## 🚀 Explore My Projects here 
 <table width="100%" align="center" >
-  <tr>
+  <tr width="100%">
     <td align="center" valign="top" width="200">
       <img src="projects/examsphere/logo.png" width="160" height="160" />
       <h3>ExamSphere</h3>
@@ -67,6 +67,7 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30">
       <img src="icons/js.png" width="30" height="30">
       <img src="icons/jquery.png" width="30" height="30">
+      <br>
       Marksheet Management System with dedicated Portals for teacher, student & controller with smart automation algo
       <br>
       <br>
