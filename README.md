@@ -56,6 +56,10 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">
+  Tools I am Familiar with ...
+</h2>
 <div align="center">
       <img src="https://skillicons.dev/icons?i=java" width="45" />
       <img src="https://skillicons.dev/icons?i=python" width="45" />
@@ -231,11 +235,7 @@
   </tr>
 </table>
 
-<h2 align="center">
-  Tools I am Familiar with ...
-</h2>
-
-<table width="100%" cellspacing="0" cellpadding="0">
+<!-- <table width="100%" cellspacing="0" cellpadding="0">
   <tr width="100%">
     <td lign="center" width="12%" valign="top" >
       <!-- <h3>Languages</h3> -->
@@ -310,4 +310,4 @@
       <img src="https://skillicons.dev/icons?i=vercel" width="45" />
     </td>
   </tr>
-</table>
+</table> -->
