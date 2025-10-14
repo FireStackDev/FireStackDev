@@ -204,7 +204,7 @@
       <img src="https://skillicons.dev/icons?i=flutter" width="45" />
       <img src="https://skillicons.dev/icons?i=react" width="45" />
     </td>
-    <td align="center" width="10%" valign="top">
+    <td align="center" width="15%" valign="top">
       <!-- <h3>Backend 🖥️🔧⚙️</h3> -->
       <img src="https://skillicons.dev/icons?i=django" width="45" />
       <img src="https://skillicons.dev/icons?i=php" width="45" />
