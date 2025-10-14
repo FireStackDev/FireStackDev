@@ -254,20 +254,18 @@
   </tr>
 </table>
 
-![Metrics](https://github.com/YOUR_USERNAME/FireStackDev/blob/main/github-metrics.svg)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FireStackDev&theme=react-dark)
-
-![Commit Activity](https://github-contribution-stats.vercel.app/api/?username=FireStackDev)
-
 
 <h3 align="center"> 📊GitHub Stats </h3>
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</td>
-<td>
- <img src="https://nirzak-streak-stats.vercel.app/?user=FireStackDev&theme=dark&hide_border=false"/>
-</td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  </td>
+  <td>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=FireStackDev&theme=dark&hide_border=false"/>
+  </td>
+  <td>
+    <img src='https://github-readme-activity-graph.vercel.app/graph?username=FireStackDev&theme=react-dark'></img>
+  </td>
 </tr>
 </table>
