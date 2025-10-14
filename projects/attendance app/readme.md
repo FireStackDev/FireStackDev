@@ -26,7 +26,7 @@ An Android app for Employee Attendance Collection with Geo-Fencing and Photo Col
 
 <h2 align="center">Features</h2>
 <table border="0" cellspacing="0" cellpadding="10" width="100%">
-  <tr width="100%" bgcolor="#f0f0f0">
+  <tr width="100%" >
     <td width="50%" valign="top">
       <h3>Geo-Fencing Attendance</h3>
       <p>Employees can submit attendance only when they are at the office location.</p>
@@ -35,7 +35,7 @@ An Android app for Employee Attendance Collection with Geo-Fencing and Photo Col
       <img src="https://via.placeholder.com/300x500?text=Geo-Fencing+Screenshot" alt="Geo-Fencing Screenshot" width="100%">
     </td>
   </tr>
-  <tr bgcolor="#ffffff">
+  <tr >
     <td width="50%" valign="top">
       <h3>Photo Collection</h3>
       <p>Attendance submission includes capturing a photo of the employee for verification.</p>
@@ -44,13 +44,13 @@ An Android app for Employee Attendance Collection with Geo-Fencing and Photo Col
       <img src="https://via.placeholder.com/300x500?text=Photo+Capture+Screenshot" alt="Photo Capture Screenshot" width="100%">
     </td>
   </tr>
-  <tr bgcolor="#f0f0f0">
-    <td width="50%" valign="top">
+  <tr >
+    <td width="20%" valign="top">
       <h3>Daily Attendance Check</h3>
       <p>Employees can view their daily attendance history on the dedicated page.</p>
     </td>
-    <td width="50%" valign="top">
-      <img src="assets/attendance record" alt="Daily Attendance Screenshot" width="100%">
+    <td width="80%" valign="top">
+      <img src="assets/attendance record.png" alt="Daily Attendance Screenshot" width="100%">
     </td>
   </tr>
 </table>
