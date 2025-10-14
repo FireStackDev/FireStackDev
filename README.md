@@ -56,6 +56,7 @@
     </td>
   </tr>
 </table>
+<div>
       <img src="https://skillicons.dev/icons?i=java" width="45" />
       <img src="https://skillicons.dev/icons?i=python" width="45" />
       <img src="https://skillicons.dev/icons?i=c" width="45" />
@@ -90,15 +91,12 @@
       <img src="https://skillicons.dev/icons?i=sqlite" width="45" />
       <img src="https://skillicons.dev/icons?i=firebase" width="45" />
       <img src="https://skillicons.dev/icons?i=supabase" width="45" />
-    <td align="center" width="12%" valign="top">
       <!-- <h3>3D & Design 🍩🎨</h3> -->
       <img src="https://skillicons.dev/icons?i=blender" width="45" />
       <img src="https://skillicons.dev/icons?i=photoshop" width="45" />
       <img src="https://skillicons.dev/icons?i=pr" width="45" />
       <!-- <h3>AI / ML 🤖📈</h3> -->
       <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" />
-    </td>
-    <td align="center" width="12%" valign="top">
       <!-- <h3>Operating System</h3> -->
       <img src="https://skillicons.dev/icons?i=ubuntu" width="45" />
       <img src="https://skillicons.dev/icons?i=kali" width="45" />
@@ -112,7 +110,7 @@
       <img src="https://skillicons.dev/icons?i=netlify" width="45" />
       <img src="https://skillicons.dev/icons?i=postman" width="45" />
       <img src="https://skillicons.dev/icons?i=vercel" width="45" />
-    </td>
+</div>
 
 
 <h2 align="center">
