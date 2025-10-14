@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
       <h3>
