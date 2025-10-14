@@ -52,7 +52,7 @@
     </td>
     <td width="50%">
         <div>Coding Stats</div>
-       <img src="https://agni-dev.vercel.app/api/github-stats?bytelimit=30000&theme=dark&exclude_repo=fork&exclude=Hack,Jupyter%20Notebook">
+       <img src="https://agni-dev.vercel.app/api/github-stats?bytelimit=30000&theme=dark&exclude_repo=fork&exclude=Hack,CMake,Jupyter%20Notebook">
     </td>
   </tr>
 </table>
