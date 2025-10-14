@@ -58,7 +58,7 @@
 🚀 Explore My Projects here 
 </h2>
 
-<table width="100%" align="center">
+<table width="100%" align="center" cellspacing="0" cellpadding="0">
   <tr width="100%">
     <td align="center" valign="top" width="400" >
       <img src="projects/examsphere/logo.png" width="100" height="100" />
@@ -176,7 +176,7 @@
   Tools I am Familiar with ...
 </h2>
 
-<table width="100%" align="center">
+<table width="100%" align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="top" width="25%">
       <h3>Languages</h3>
@@ -255,17 +255,14 @@
 </table>
 
 
-<!--
-# 📊GitHub Stats :
+
+<h3 align="center"> 📊GitHub Stats </h3>
 <table align="center">
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </td>
 <td>
-
  <img src="https://nirzak-streak-stats.vercel.app/?user=FireStackDev&theme=dark&hide_border=false"/>
-
 </td>
 </tr>
 </table>
--->
