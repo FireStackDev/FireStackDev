@@ -58,7 +58,7 @@
 🚀 Explore My Projects here 
 </h2>
 
-<table width="100%" align="center" >
+<table width="100%" align="center">
   <tr width="100%">
     <td align="center" valign="top" width="400" >
       <img src="projects/examsphere/logo.png" width="100" height="100" />
