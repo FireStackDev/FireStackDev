@@ -180,7 +180,7 @@
   Tools I am Familiar with ...
 </h2>
 
-<table width="100%" align="center" cellspacing="0" cellpadding="0">
+<table width="" align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="20%" valign="top" >
       <!-- <h3>Languages</h3> -->
