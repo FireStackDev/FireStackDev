@@ -265,7 +265,7 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=FireStackDev&theme=dark&hide_border=false"/>
   </td>
   <td>
-    <img src='https://github-readme-activity-graph.vercel.app/graph?username=FireStackDev&theme=react-dark'></img>
+    <img src='https://github-readme-activity-graph.vercel.app/graph?username=FireStackDev&theme=react-dark&days=60'></img>
   </td>
 </tr>
 </table>
