@@ -50,7 +50,7 @@
         ⚠️ Most of my repositories are <b>private</b>.
       </h3>
     </td>
-    <td>
+    <td width="30%">
         <div>Coding Stats</div>
        <img src="https://agni-dev.vercel.app/api/github-stats?bytelimit=30000&theme=dark&exclude_repo=fork&exclude=Hack,Jupyter%20Notebook">
     </td>
