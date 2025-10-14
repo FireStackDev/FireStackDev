@@ -256,18 +256,11 @@
 
 
 <h3 align="center"> 📊GitHub Stats </h3>
-<table align="center">
+<table>
   <tr>
-    <td colspan="2">
-    <img src='https://github-readme-activity-graph.vercel.app/graph?username=FireStackDev&theme=react-dark&from=60'></img>
+    <td>
+      <img src="https://agni-dev.vercel.app/api/github-stats?bytelimit=30000&theme=light&exclude_repo=fork&exclude=Hack,Jupyter%20Notebook">
     </td>
   </tr>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=FireStackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  </td>
-  <td>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=FireStackDev&theme=dark&hide_border=false"/>
-  </td>
-</tr>
 </table>
+<img>
