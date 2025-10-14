@@ -225,18 +225,17 @@
       <img src="https://skillicons.dev/icons?i=firebase" width="45" />
       <img src="https://skillicons.dev/icons?i=supabase" width="45" />
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <!-- <h3>AI / ML 🤖📈</h3> -->
-      <img src="https://skillicons.dev/icons?i=sklearn" width="45" />
-    </td>
     <td align="center" width="25%" valign="top">
       <!-- <h3>3D & Design 🍩🎨</h3> -->
       <img src="https://skillicons.dev/icons?i=blender" width="45" />
       <img src="https://skillicons.dev/icons?i=photoshop" width="45" />
       <img src="https://skillicons.dev/icons?i=pr" width="45" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <!-- <h3>AI / ML 🤖📈</h3> -->
+      <img src="https://skillicons.dev/icons?i=sklearn" width="45" />
     </td>
     <td align="center" width="25%" valign="top">
       <!-- <h3>Operating System</h3> -->
