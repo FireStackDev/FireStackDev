@@ -37,7 +37,7 @@
 
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="60%">
+    <td align="center" width="50%">
       <h3>
         ✨ For the best experience and to explore all my projects with detailed explanations, screenshots, and UI previews — please visit
       </h3>
@@ -50,7 +50,7 @@
         ⚠️ Most of my repositories are <b>private</b>.
       </h3>
     </td>
-    <td width="40%">
+    <td width="50%">
         <div>Coding Stats</div>
        <img src="https://agni-dev.vercel.app/api/github-stats?bytelimit=30000&theme=dark&exclude_repo=fork&exclude=Hack,Jupyter%20Notebook">
     </td>
