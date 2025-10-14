@@ -17,16 +17,35 @@ An Android app for Employee Attendance Collection with Geo-Fencing and Photo Col
   <td><strong>Technologies Used:</strong></td>
   <td>
     <img src="https://skillicons.dev/icons?i=kotlin" height="32" width="32" title="Kotlin">
-    <img src="../icons/appscript.png" height="32" width="32" title="Google Apps Script">
+    <img src="../../icons/appscript.png" height="32" width="32" title="Google Apps Script">
     <img src="https://skillicons.dev/icons?i=gcp" height="32" width="32" title="Google Cloud Platform">
-    <img src="https://skillicons.dev/icons?i=sheets" height="32" width="32" title="Google Sheets">
+    <img src="../../icons/sheets.webp" height="32" width="32" title="Google Sheets">
   </td>
 </tr>
 </table>
 
 <h2>Features</h2>
+<ul>
+<li><b>Geofencing:</b>
+</li>
+<li><b>Photo Verification:</b> 
+</li>
+</ul>
 
 <h2 align="center">Project Screenshots</h2>
+
+<h3>Service Account Setup</h3>
+<p>To access Google Drive as storage a Service Account is created for this project through IAM Panel of Google Cloud Console.</p>
+<img src="assets/IAM Service account.png">
+
+<h3>Profile Images</h3>
+<p>The Profile Images are strored inside the Google Drive which will be accessed through Service Account.</p>
+<img src="assets/profile images from drive.png">
+Service Account Access
+<br>
+<img src="assets/service account.png">
+
+
 <table border="0" cellspacing="0" cellpadding="10" width="100%">
   <tr width="100%" >
     <td width="50%" valign="top">
