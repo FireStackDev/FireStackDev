@@ -231,9 +231,6 @@
       <img src="https://skillicons.dev/icons?i=photoshop" width="45" />
       <img src="https://skillicons.dev/icons?i=pr" width="45" />
     </td>
-    
-  </tr>
-  <tr>
     <td align="center"  valign="top">
       <!-- <h3>AI / ML 🤖📈</h3> -->
       <img src="https://skillicons.dev/icons?i=sklearn" width="45" />
@@ -255,6 +252,5 @@
       <img src="https://skillicons.dev/icons?i=postman" width="45" />
       <img src="https://skillicons.dev/icons?i=vercel" width="45" />
     </td>
-    
   </tr>
 </table>
