@@ -5,7 +5,7 @@ An Android app for Employee Attendance Collection with Geo-Fencing and Photo Col
 
 <h2 align="center">Project Details</h2>
 <table cellpadding="8" cellspacing="0" width="100%">
-<tr>
+<tr width="100%">
   <td><strong>Month & Year:</strong></td>
   <td>September 2025</td>
 </tr>
@@ -59,5 +59,6 @@ An Android app for Employee Attendance Collection with Geo-Fencing and Photo Col
 <p align="center">
 This Android app simplifies employee attendance management with precise geo-fencing and photo verification, integrates seamlessly with Google Sheets and GCP via Apps Script, and allows daily attendance tracking efficiently.
 </p>
+
 
 
