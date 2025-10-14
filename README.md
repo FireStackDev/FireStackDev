@@ -254,11 +254,11 @@
   </tr>
 </table>
 
-![Metrics](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/github-metrics.svg)
+![Metrics](https://github.com/YOUR_USERNAME/FireStackDev/blob/main/github-metrics.svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FireStackDev&theme=react-dark)
 
-![Commit Activity](https://github-contribution-stats.vercel.app/api/?username=YOUR_USERNAME)
+![Commit Activity](https://github-contribution-stats.vercel.app/api/?username=FireStackDev)
 
 
 <h3 align="center"> 📊GitHub Stats </h3>
