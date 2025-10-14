@@ -26,7 +26,7 @@ An Android app for Employee Attendance Collection with Geo-Fencing and Photo Col
 
 <h2 align="center">Features</h2>
 <table border="0" cellspacing="0" cellpadding="10" width="100%">
-  <tr bgcolor="#f0f0f0">
+  <tr width="100%" bgcolor="#f0f0f0">
     <td width="50%" valign="top">
       <h3>Geo-Fencing Attendance</h3>
       <p>Employees can submit attendance only when they are at the office location.</p>
@@ -59,6 +59,7 @@ An Android app for Employee Attendance Collection with Geo-Fencing and Photo Col
 <p align="center">
 This Android app simplifies employee attendance management with precise geo-fencing and photo verification, integrates seamlessly with Google Sheets and GCP via Apps Script, and allows daily attendance tracking efficiently.
 </p>
+
 
 
 
