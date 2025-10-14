@@ -56,7 +56,7 @@
     </td>
   </tr>
 </table>
-<div>
+<div align="center">
       <img src="https://skillicons.dev/icons?i=java" width="45" />
       <img src="https://skillicons.dev/icons?i=python" width="45" />
       <img src="https://skillicons.dev/icons?i=c" width="45" />
