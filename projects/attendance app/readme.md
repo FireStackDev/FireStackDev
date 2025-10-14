@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Employee Attendance App - Project Showcase</title>
-</head>
-<body>
-    <h1 align="center">Employee Attendance App</h1>
+<h1 align="center">Employee Attendance App</h1>
     <p align="center">
         An Android app for Employee Attendance Collection with Geo-Fencing and Photo Collection.
     </p>
@@ -55,5 +48,5 @@
     <p>
         This Android app simplifies employee attendance management with precise geo-fencing and photo verification, integrates seamlessly with Google Sheets and GCP via Apps Script, and allows daily attendance tracking efficiently.
     </p>
-</body>
 </html>
+
