@@ -8,10 +8,10 @@
         <li><strong>Time Taken:</strong> 3 Months</li>
         <li><strong>Technologies Used:</strong></li>
         <ul>
-            <li><img src="https://skillicons.dev/icons?i=kotlin" height="32" width="32"> Kotlin</li>
-            <li><img src="https://skillicons.dev/icons?i=appscript" height="32" width="32"> Google Apps Script</li>
-            <li><img src="https://skillicons.dev/icons?i=gcp" height="32" width="32"> Google Cloud Platform</li>
-            <li><img src="https://skillicons.dev/icons?i=sheets" height="32" width="32"> Google Sheets</li>
+            <li><img src="https://skillicons.dev/icons?i=kotlin" height="32" width="32"></li>
+            <li><img src="https://skillicons.dev/icons?i=appscript" height="32" width="32"> </li>
+            <li><img src="https://skillicons.dev/icons?i=gcp" height="32" width="32"> </li>
+            <li><img src="https://skillicons.dev/icons?i=sheets" height="32" width="32"></li>
         </ul>
     </ul>
     <h2>Features</h2>
@@ -49,4 +49,5 @@
         This Android app simplifies employee attendance management with precise geo-fencing and photo verification, integrates seamlessly with Google Sheets and GCP via Apps Script, and allows daily attendance tracking efficiently.
     </p>
 </html>
+
 
