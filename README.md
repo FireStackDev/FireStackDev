@@ -243,7 +243,7 @@
       <img src="https://skillicons.dev/icons?i=linux" width="45" />
       <img src="https://skillicons.dev/icons?i=windows" width="45" />
     </td>
-    <td align="center"  valign="top">
+    <td align="center" width="20%"  valign="top">
       <!-- <h3>Other Tools</h3> -->
       <img src="https://skillicons.dev/icons?i=docker" width="45" />
       <img src="https://skillicons.dev/icons?i=git" width="45" />
