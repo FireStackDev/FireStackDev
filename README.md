@@ -231,7 +231,7 @@
       <img src="https://skillicons.dev/icons?i=photoshop" width="45" />
       <img src="https://skillicons.dev/icons?i=pr" width="45" />
     </td>
-    <td align="center"  valign="top">
+    <td align="center" valign="top">
       <!-- <h3>AI / ML 🤖📈</h3> -->
       <img src="https://skillicons.dev/icons?i=sklearn" width="45" />
     </td>
