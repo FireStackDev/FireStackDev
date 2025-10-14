@@ -256,10 +256,11 @@
 
 
 <h3 align="center"> 📊GitHub Stats </h3>
+<p>Made with Next JS</p>
 <table>
   <tr>
     <td>
-      <img src="https://agni-dev.vercel.app/api/github-stats?bytelimit=30000&theme=light&exclude_repo=fork&exclude=Hack,Jupyter%20Notebook">
+      <img src="https://agni-dev.vercel.app/api/github-stats?bytelimit=30000&theme=dark&exclude_repo=fork&exclude=Hack,Jupyter%20Notebook">
     </td>
   </tr>
 </table>
