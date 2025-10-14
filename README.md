@@ -182,7 +182,7 @@
 
 <table width="100%" align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" >
       <!-- <h3>Languages</h3> -->
       <img src="https://skillicons.dev/icons?i=java" width="45" />
       <img src="https://skillicons.dev/icons?i=python" width="45" />
@@ -193,7 +193,7 @@
       <img src="https://skillicons.dev/icons?i=bash" width="45" />
       <img src="https://skillicons.dev/icons?i=dart" width="45" />
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center"  valign="top">
       <!-- <h3>Frontend 🎨💻🖌️</h3> -->
       <img src="https://skillicons.dev/icons?i=html" width="45" />
       <img src="https://skillicons.dev/icons?i=css" width="45" />
@@ -204,7 +204,7 @@
       <img src="https://skillicons.dev/icons?i=flutter" width="45" />
       <img src="https://skillicons.dev/icons?i=react" width="45" />
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center"  valign="top">
       <!-- <h3>Backend 🖥️🔧⚙️</h3> -->
       <img src="https://skillicons.dev/icons?i=django" width="45" />
       <img src="https://skillicons.dev/icons?i=php" width="45" />
@@ -216,7 +216,7 @@
       <img src="https://skillicons.dev/icons?i=flask" width="45" />
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" />
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center"  valign="top">
       <!-- <h3>Database 🗄️💾📊</h3> -->
       <img src="https://skillicons.dev/icons?i=mysql" width="45" />
       <img src="https://skillicons.dev/icons?i=postgres" width="45" />
@@ -225,7 +225,7 @@
       <img src="https://skillicons.dev/icons?i=firebase" width="45" />
       <img src="https://skillicons.dev/icons?i=supabase" width="45" />
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center"  valign="top">
       <!-- <h3>3D & Design 🍩🎨</h3> -->
       <img src="https://skillicons.dev/icons?i=blender" width="45" />
       <img src="https://skillicons.dev/icons?i=photoshop" width="45" />
@@ -234,11 +234,11 @@
     
   </tr>
   <tr>
-    <td align="center" width="25%" valign="top">
+    <td align="center"  valign="top">
       <!-- <h3>AI / ML 🤖📈</h3> -->
       <img src="https://skillicons.dev/icons?i=sklearn" width="45" />
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center"  valign="top">
       <!-- <h3>Operating System</h3> -->
       <img src="https://skillicons.dev/icons?i=ubuntu" width="45" />
       <img src="https://skillicons.dev/icons?i=kali" width="45" />
@@ -246,7 +246,7 @@
       <img src="https://skillicons.dev/icons?i=linux" width="45" />
       <img src="https://skillicons.dev/icons?i=windows" width="45" />
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center"  valign="top">
       <!-- <h3>Other Tools</h3> -->
       <img src="https://skillicons.dev/icons?i=docker" width="45" />
       <img src="https://skillicons.dev/icons?i=git" width="45" />
