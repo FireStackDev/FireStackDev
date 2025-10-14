@@ -259,7 +259,7 @@
 <table align="center">
   <tr>
     <td colspan="2">
-    <img src='https://github-readme-activity-graph.vercel.app/graph?username=FireStackDev&theme=react-dark&days=60'></img>
+    <img src='https://github-readme-activity-graph.vercel.app/graph?username=FireStackDev&theme=react-dark&days=120'></img>
     </td>
   </tr>
 <tr>
