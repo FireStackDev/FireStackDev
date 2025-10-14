@@ -164,7 +164,7 @@
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
       </div>
       <br>
-      <a href="projects/smart_education">
+      <a href="projects/attendance app">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
@@ -184,7 +184,7 @@
       Offline Desktop Software for Point of Sale calculation, with Barcode Scanning & Generation, Invoice, Password Protection & Data Import Export Features.
       </div>
       <br>
-      <a href="projects/smart_education">
+      <a href="projects/barcode_pos">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
     </td>
@@ -200,7 +200,7 @@
         Android Mobile App for Attendance Management System with Photo Capture & Geofencing
       </div>
       <br>
-      <a href="projects/smart_education">
+      <a href="projects/sticky_notes">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
   </td>
@@ -216,7 +216,7 @@
       Android Mobile App for Attendance Management System with Photo Capture & Geofencing
       </div>
       <br>
-      <a href="projects/smart_education">
+      <a href="projects/django_ecommerce">
         <img src="https://img.shields.io/badge/Know More-16a34a?style=for-the-badge&logoColor=white" />
       </a>
   </td>
