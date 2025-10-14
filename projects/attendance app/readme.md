@@ -50,7 +50,7 @@ An Android app for Employee Attendance Collection with Geo-Fencing and Photo Col
       <p>Employees can view their daily attendance history on the dedicated page.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://via.placeholder.com/300x500?text=Daily+Attendance+Screenshot" alt="Daily Attendance Screenshot" width="100%">
+      <img src="assets/attendance record" alt="Daily Attendance Screenshot" width="100%">
     </td>
   </tr>
 </table>
@@ -59,6 +59,7 @@ An Android app for Employee Attendance Collection with Geo-Fencing and Photo Col
 <p align="center">
 This Android app simplifies employee attendance management with precise geo-fencing and photo verification, integrates seamlessly with Google Sheets and GCP via Apps Script, and allows daily attendance tracking efficiently.
 </p>
+
 
 
 
