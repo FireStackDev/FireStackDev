@@ -50,6 +50,10 @@
         ⚠️ Most of my repositories are <b>private</b>.
       </h3>
     </td>
+    <td>
+        <div>Coding Stats</div>
+       <img src="https://agni-dev.vercel.app/api/github-stats?bytelimit=30000&theme=dark&exclude_repo=fork&exclude=Hack,Jupyter%20Notebook">
+    </td>
   </tr>
 </table>
 
@@ -253,15 +257,3 @@
     </td>
   </tr>
 </table>
-
-
-<h3 align="center"> 📊GitHub Stats </h3>
-<p>Made with Next JS</p>
-<table>
-  <tr>
-    <td>
-      <img src="https://agni-dev.vercel.app/api/github-stats?bytelimit=30000&theme=dark&exclude_repo=fork&exclude=Hack,Jupyter%20Notebook">
-    </td>
-  </tr>
-</table>
-<img>
