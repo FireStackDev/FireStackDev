@@ -62,8 +62,8 @@
 🚀 Explore My Projects here 
 </h2>
 
-<table width="100%" align="center" cellspacing="0" cellpadding="0">
-  <tr width="100%">
+<table width="" align="center" cellspacing="0" cellpadding="0">
+  <tr width="">
     <td align="center" valign="top" width="400" >
       <img src="projects/examsphere/logo.png" width="100" height="100" />
       <h3 >ExamSphere</h3>
@@ -182,7 +182,7 @@
 
 <table width="100%" align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" valign="top" >
+    <td align="center" width="20%" valign="top" >
       <!-- <h3>Languages</h3> -->
       <img src="https://skillicons.dev/icons?i=java" width="45" />
       <img src="https://skillicons.dev/icons?i=python" width="45" />
@@ -193,7 +193,7 @@
       <img src="https://skillicons.dev/icons?i=bash" width="45" />
       <img src="https://skillicons.dev/icons?i=dart" width="45" />
     </td>
-    <td align="center"  valign="top">
+    <td align="center" width="20%" valign="top">
       <!-- <h3>Frontend 🎨💻🖌️</h3> -->
       <img src="https://skillicons.dev/icons?i=html" width="45" />
       <img src="https://skillicons.dev/icons?i=css" width="45" />
