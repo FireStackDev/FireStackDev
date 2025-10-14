@@ -180,8 +180,8 @@
   Tools I am Familiar with ...
 </h2>
 
-<table width="" align="center" cellspacing="0" cellpadding="0">
-  <tr>
+<table width="100%" align="center" cellspacing="0" cellpadding="0">
+  <tr width="100%">
     <td align="center" width="100%" valign="top" >
       <!-- <h3>Languages</h3> -->
       <img src="https://skillicons.dev/icons?i=java" width="45" />
