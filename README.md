@@ -225,6 +225,8 @@
       <img src="https://skillicons.dev/icons?i=firebase" width="45" />
       <img src="https://skillicons.dev/icons?i=supabase" width="45" />
     </td>
+    </tr>
+    <tr>
     <td align="center" width="12%" valign="top">
       <!-- <h3>3D & Design 🍩🎨</h3> -->
       <img src="https://skillicons.dev/icons?i=blender" width="45" />
